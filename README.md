@@ -27,12 +27,11 @@ The processed data is passed into the trained model for prediction.
 Installation
 pip install -r requirements.txt
 
-Run Locally
-streamlit run dealership_ai.py
+
 
 Use Case
+
 Ideal for car dealerships, data science learners, and ML deployment practice.
 
 Contribution
-
 Pull requests and suggestions are welcome.
