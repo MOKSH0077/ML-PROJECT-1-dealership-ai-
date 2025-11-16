@@ -107,31 +107,28 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # PREDICTION
 
-# WE ALREADY LOAD ALL SAVED PKL FILES SO THAT WE CAN USE THEM IN THIS SCRIPT.
+
 st.markdown("<div class='glass'>", unsafe_allow_html=True)
 st.markdown("<div class='subtitle'>📊 Prediction Panel</div>", unsafe_allow_html=True)
 
-if st.button("🚗 Predict Car Price", use_container_width=True):# IF USER PRESS BUTTON
+if st.button("🚗 Predict Car Price", use_container_width=True):
     try:
         df = pd.DataFrame([[fuel, body, drivewheel, enginesize, horsepower, brand]],
                           columns=["fueltype", "carbody", "drivewheel", "enginesize", "horsepower", "Brand"])
-        # WE FIRST MANNUALY CREATE DATAFRAME OF FEATURES OF OUR MODEL BUT IF THERE ARE MANY FEATURES WE NOT DO IT MANUALLY.
+      
         encoded = ct.transform(df)
-        # NOW WE GET THE ENCODED DATAFRAME THAT CONTAINS OHE FEATURES AND 2 NUMERIC FEATURES.
+      
 
         try:
             encoded[:, -2:] = scaler.transform(encoded[:, -2:])
-            # NOW AFTER GETTING ENCODED DATAFRAME THAT HAVE OHE AND 2 NUMERIC FEATURES , SO NOW WE DO FEATURE SCALLING ON THESE 2 NUMERIC FEATURES.
+        
         except:
             pass
 
         final_df = pd.DataFrame(encoded, columns=feature_names)
-        # NOW WE GET THE OUR FINAL DATAFRAME THAT CONTAIN OHE AND SCALED FEATURES AND ALSO WE HAVE OUR FEATURE NAMES IN TRAINING ORDER.
-        # WE HAVE DATAFRAME OF 1 ROW AND MANY COLUMNS.
+       
         prediction = model.predict(final_df)[0]
-        # WE USE[0] AS sklearn predictions always return array/list form—even for one row.
-        # model.predict() pandas DataFrame return nahi karta.
-        # Woh NumPy array return karta hai.
+        
 
         lower = prediction * 0.92
         upper = prediction * 1.12
