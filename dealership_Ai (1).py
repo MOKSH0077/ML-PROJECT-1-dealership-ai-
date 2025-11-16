@@ -8,10 +8,10 @@ import plotly.graph_objects as go
 # Load Pickle Files
 
 # LOADING THE TRAINED MODELS.
-model = joblib.load("car_price_model(1).pkl")
-ct = joblib.load("column_transformer(1).pkl")
-scaler = joblib.load("scaler(1).pkl")
-feature_names = joblib.load("feature_names(1).pkl")
+model = joblib.load("car_price_model (1).pkl")
+ct = joblib.load("column_transformer (1).pkl")
+scaler = joblib.load("scaler (1).pkl")
+feature_names = joblib.load("feature_names (1).pkl")
 
 
 # Vision Pro UI CSS
