@@ -24,14 +24,10 @@ Categorical features are encoded using the saved transformer.
 Numerical features are scaled using the saved scaler.
 The processed data is passed into the trained model for prediction.
 
-Installation
-pip install -r requirements.txt
-
-
-
 Use Case
 
 Ideal for car dealerships, data science learners, and ML deployment practice.
 
 Contribution
+
 Pull requests and suggestions are welcome.
