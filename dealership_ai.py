@@ -5,7 +5,7 @@
 
 
 # streamlit_app.py
-%%writefile dealership_Ai.py
+
 import streamlit as st
 import pandas as pd
 import numpy as np
