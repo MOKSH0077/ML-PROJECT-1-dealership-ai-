@@ -1,0 +1,1201 @@
+Brand,Model,Year,Mileage,FuelType,Transmission,EngineSize,Horsepower,Owner,Price
+Toyota,Camry,2023,135047,Petrol,Manual,1106,138,2,853702
+BMW,3 Series,2022,65129,Petrol,Manual,3198,454,1,3122288
+Toyota,Corolla,2017,161500,Petrol,Automatic,2450,287,1,905830
+Audi,A3,2022,18946,Petrol,Manual,1769,260,1,2885309
+Hyundai,i20,2013,129778,Diesel,Manual,2789,316,1,675242
+Audi,A4,2017,95045,Diesel,Automatic,2239,189,1,2663160
+Honda,City,2023,166418,Petrol,Manual,1729,152,3,488240
+Honda,Civic,2013,84929,Diesel,Manual,1901,214,2,586702
+BMW,5 Series,2017,31635,Petrol,Manual,1956,232,3,2717695
+Hyundai,i20,2013,131985,Petrol,Automatic,1020,115,1,360167
+Toyota,Camry,2023,119753,Petrol,Automatic,1426,205,1,1114320
+Toyota,Fortuner,2014,120432,Petrol,Automatic,1204,105,1,717856
+Honda,Civic,2012,166937,Diesel,Automatic,3352,446,3,534919
+Toyota,Corolla,2023,20512,Diesel,Automatic,1091,153,2,1355999
+Audi,Q3,2018,169048,Diesel,Manual,1133,120,1,2111292
+BMW,X1,2015,146612,Diesel,Automatic,3114,346,2,2447993
+Hyundai,Creta,2023,9787,Petrol,Automatic,1022,88,1,1340621
+Toyota,Fortuner,2012,109050,Diesel,Manual,1764,156,1,701458
+Hyundai,Verna,2022,121723,Diesel,Manual,1911,265,1,971708
+Audi,Q3,2022,88583,Diesel,Automatic,2971,400,1,2971268
+BMW,5 Series,2022,171433,Diesel,Manual,3323,446,2,2850936
+Hyundai,Verna,2022,62421,Petrol,Manual,3227,345,2,1177397
+Honda,City,2013,63456,Petrol,Automatic,1105,155,1,870775
+Audi,A4,2014,101431,Petrol,Manual,3089,282,1,2449370
+Toyota,Camry,2020,101831,Diesel,Automatic,3086,335,2,1340310
+Hyundai,Creta,2017,69194,Diesel,Automatic,2304,297,3,859463
+BMW,X1,2021,42769,Diesel,Automatic,1209,178,2,2958573
+Hyundai,i20,2015,109297,Diesel,Automatic,2878,360,1,964529
+BMW,5 Series,2012,92801,Diesel,Manual,1763,158,2,2352654
+Audi,Q3,2016,112117,Petrol,Manual,1111,142,1,2221132
+Hyundai,Verna,2023,58565,Diesel,Manual,2511,283,1,1290612
+Hyundai,Creta,2014,103374,Petrol,Manual,1332,120,2,410416
+Honda,Civic,2013,136955,Diesel,Automatic,2748,320,1,810961
+BMW,3 Series,2014,114321,Diesel,Manual,1096,116,2,2121179
+Toyota,Camry,2022,153385,Diesel,Automatic,3411,388,3,1183364
+BMW,5 Series,2016,120591,Petrol,Manual,2242,234,1,2421508
+Toyota,Camry,2023,149553,Petrol,Manual,1606,236,1,1056943
+Honda,Civic,2017,53945,Diesel,Manual,2994,256,1,1335658
+Toyota,Fortuner,2013,121614,Petrol,Automatic,3324,435,1,904574
+Honda,Civic,2019,121498,Diesel,Automatic,2009,236,1,1038969
+Audi,A4,2021,105850,Petrol,Manual,1449,151,1,2529791
+Hyundai,Verna,2013,34149,Petrol,Manual,1412,165,1,848235
+Honda,City,2023,167153,Petrol,Automatic,3275,459,3,922049
+Hyundai,i20,2022,18198,Petrol,Automatic,1484,156,1,1323048
+Hyundai,Verna,2014,29439,Petrol,Automatic,2472,368,1,1209882
+Hyundai,Verna,2020,84991,Petrol,Manual,2940,307,1,1213871
+Toyota,Corolla,2016,32444,Petrol,Manual,1376,174,3,769129
+BMW,3 Series,2020,94547,Diesel,Manual,2924,270,2,2924974
+Honda,Amaze,2022,151115,Diesel,Manual,2488,254,1,1066498
+Honda,Amaze,2012,154810,Petrol,Automatic,2287,234,2,483666
+Audi,A3,2018,89806,Petrol,Manual,1636,231,2,2325548
+Hyundai,Verna,2013,57686,Diesel,Automatic,2687,322,1,1162681
+Honda,Amaze,2014,155514,Petrol,Manual,1236,124,1,498940
+Honda,City,2012,40127,Petrol,Automatic,1916,202,1,960049
+Hyundai,Verna,2018,122965,Diesel,Automatic,2970,412,1,1063773
+Toyota,Camry,2019,80222,Petrol,Manual,2026,238,2,930501
+BMW,X1,2022,81342,Diesel,Manual,2385,295,2,2840038
+Audi,Q3,2015,12961,Petrol,Automatic,1046,126,1,2748667
+BMW,3 Series,2022,57372,Petrol,Manual,2154,236,3,2743052
+BMW,X1,2015,65485,Diesel,Automatic,2308,291,2,2893347
+Audi,Q3,2022,143313,Petrol,Automatic,2410,285,1,2639267
+Audi,Q3,2021,18416,Petrol,Automatic,2693,316,1,3206479
+Toyota,Fortuner,2022,164670,Diesel,Automatic,1419,135,2,875211
+Toyota,Camry,2014,146700,Diesel,Manual,1245,172,1,466563
+BMW,3 Series,2020,38361,Diesel,Manual,3204,275,1,3133077
+Toyota,Fortuner,2020,7047,Petrol,Automatic,1039,120,1,1275721
+Hyundai,Creta,2017,173892,Petrol,Automatic,1111,94,1,388656
+Hyundai,Verna,2022,96154,Petrol,Manual,1957,233,2,913483
+BMW,5 Series,2022,55038,Petrol,Manual,1867,161,1,2948801
+BMW,5 Series,2012,69817,Petrol,Automatic,3428,512,1,2783143
+Honda,Amaze,2019,170725,Petrol,Automatic,1861,207,1,766258
+Hyundai,Creta,2013,104405,Diesel,Manual,2397,283,1,820815
+Toyota,Corolla,2012,66135,Diesel,Automatic,2904,340,1,1223346
+Toyota,Corolla,2018,85114,Diesel,Automatic,1339,155,1,1053794
+Hyundai,i20,2023,132337,Petrol,Automatic,1299,180,2,939888
+BMW,3 Series,2023,44139,Diesel,Automatic,2073,277,1,3355297
+Hyundai,Verna,2012,143755,Diesel,Manual,3186,288,2,450101
+Honda,Amaze,2016,87814,Diesel,Automatic,1790,253,1,1063858
+Honda,Amaze,2020,42216,Diesel,Automatic,2638,314,1,1411672
+BMW,3 Series,2021,178007,Diesel,Manual,1377,172,1,2475740
+Hyundai,Verna,2014,15469,Petrol,Manual,1398,191,1,951591
+Honda,Civic,2014,115497,Diesel,Automatic,3062,365,2,904247
+Audi,A4,2019,132052,Petrol,Automatic,2459,240,1,2552311
+Audi,Q3,2016,152167,Diesel,Automatic,2427,248,1,2348380
+Honda,City,2019,179285,Petrol,Automatic,1455,214,2,555343
+Hyundai,i20,2012,81988,Diesel,Manual,1911,185,1,830922
+Honda,Amaze,2018,111957,Petrol,Manual,2603,261,1,1033825
+Toyota,Corolla,2014,155814,Diesel,Automatic,2590,371,1,881356
+BMW,3 Series,2016,141587,Petrol,Manual,2537,231,2,2262553
+Hyundai,Verna,2022,15298,Diesel,Manual,2313,292,1,1573396
+BMW,X1,2018,19274,Diesel,Automatic,2704,379,1,3294881
+BMW,5 Series,2021,29110,Diesel,Manual,2435,364,1,3328583
+Audi,A3,2015,137827,Petrol,Automatic,2020,241,3,2078867
+Toyota,Fortuner,2012,72681,Petrol,Automatic,2879,412,2,873711
+Hyundai,Verna,2018,148581,Petrol,Manual,1313,160,2,519827
+Audi,Q3,2021,75307,Petrol,Manual,2188,289,2,2533823
+Honda,Amaze,2014,111762,Diesel,Manual,3487,378,3,704936
+Toyota,Corolla,2013,21212,Diesel,Automatic,1111,152,1,996581
+BMW,5 Series,2013,93775,Diesel,Automatic,2223,184,2,2601130
+Toyota,Camry,2019,19798,Petrol,Automatic,1858,164,1,1288220
+Audi,A3,2022,95358,Petrol,Manual,2896,390,1,2755823
+Toyota,Camry,2019,30386,Diesel,Automatic,1550,175,1,1351081
+Honda,City,2014,115640,Petrol,Automatic,3148,277,2,911876
+Honda,Civic,2014,28213,Petrol,Manual,2359,339,2,1025379
+Toyota,Fortuner,2019,176976,Petrol,Manual,1100,125,1,489828
+Toyota,Fortuner,2014,64471,Diesel,Manual,2772,372,2,1037624
+Audi,A3,2022,137166,Petrol,Automatic,2147,288,1,2528298
+BMW,5 Series,2019,87009,Diesel,Manual,2399,321,1,2970261
+Audi,A4,2015,26120,Diesel,Automatic,2661,363,1,2936165
+Hyundai,Creta,2021,39060,Diesel,Automatic,3451,339,1,1582577
+BMW,3 Series,2018,152818,Petrol,Manual,2250,205,1,2608565
+Honda,City,2018,74688,Diesel,Manual,2169,295,1,1160848
+BMW,3 Series,2023,166122,Diesel,Automatic,3009,322,1,3004920
+Hyundai,i20,2015,28369,Diesel,Automatic,1376,119,1,1012252
+Audi,Q3,2018,47576,Diesel,Automatic,1744,210,1,2838573
+Audi,A4,2012,46379,Petrol,Manual,3334,359,1,2577425
+Hyundai,Creta,2014,113218,Petrol,Automatic,3101,422,3,670867
+Toyota,Camry,2020,26939,Diesel,Automatic,1713,240,3,1178632
+Audi,A4,2013,37480,Petrol,Manual,1528,134,2,2205660
+Audi,A4,2023,171479,Diesel,Automatic,2968,293,3,2568945
+Audi,A3,2021,152443,Petrol,Manual,1531,138,1,2333332
+Audi,A3,2015,22000,Petrol,Automatic,2311,248,1,2873405
+Toyota,Corolla,2023,112193,Petrol,Manual,2598,354,1,1288320
+Toyota,Camry,2017,159373,Diesel,Manual,1900,280,3,518374
+BMW,X1,2023,72082,Diesel,Manual,3380,350,2,3237939
+Audi,A4,2020,79455,Diesel,Manual,3049,315,2,2816115
+Hyundai,Creta,2018,179881,Diesel,Automatic,1884,240,1,784425
+Hyundai,Verna,2021,126625,Diesel,Automatic,2793,225,1,1198537
+Hyundai,Creta,2017,76219,Petrol,Manual,1960,221,1,934159
+Hyundai,i20,2022,90046,Petrol,Automatic,3464,288,3,1034118
+Hyundai,Verna,2013,26359,Petrol,Manual,3497,297,1,1053033
+BMW,5 Series,2017,63394,Diesel,Manual,1143,167,3,2388029
+Toyota,Fortuner,2017,30037,Petrol,Manual,1935,200,1,1166082
+Audi,A3,2021,66410,Diesel,Automatic,2583,216,1,2868587
+BMW,5 Series,2016,98796,Diesel,Automatic,2724,391,2,2654383
+BMW,X1,2016,56936,Diesel,Manual,2235,310,2,2772632
+Toyota,Camry,2013,123121,Diesel,Manual,1917,216,1,662716
+Honda,City,2016,90277,Diesel,Manual,1173,138,1,867689
+Toyota,Camry,2013,67032,Petrol,Automatic,1611,215,2,824050
+Audi,A3,2022,18433,Diesel,Automatic,2495,319,1,3245607
+Audi,A4,2016,5823,Diesel,Automatic,2784,355,2,3022022
+Audi,A3,2015,106344,Petrol,Manual,2235,286,2,2188427
+Honda,City,2014,85335,Diesel,Automatic,1868,225,2,845069
+Honda,Amaze,2017,103905,Diesel,Automatic,2360,321,1,1008741
+BMW,X1,2015,155658,Diesel,Manual,3428,283,2,2440127
+Hyundai,Verna,2018,82271,Diesel,Manual,3022,320,2,936003
+Audi,A3,2021,175438,Diesel,Manual,2898,408,1,2453575
+Honda,Civic,2015,21416,Petrol,Manual,1337,170,1,1061414
+Hyundai,Verna,2014,55306,Diesel,Manual,2696,360,1,1142074
+Toyota,Camry,2014,173184,Diesel,Automatic,3218,437,1,963436
+Hyundai,i20,2013,79398,Diesel,Automatic,1576,208,1,767664
+BMW,X1,2018,96511,Diesel,Manual,2332,308,2,2785268
+Toyota,Fortuner,2017,28129,Diesel,Manual,1194,176,1,1108161
+Honda,Amaze,2015,132113,Diesel,Manual,1319,197,2,429303
+BMW,X1,2019,34019,Diesel,Manual,2761,404,1,3109295
+Toyota,Corolla,2015,158363,Diesel,Automatic,1994,280,1,723569
+Audi,Q3,2013,47486,Petrol,Manual,2917,399,1,2670104
+BMW,X1,2018,11700,Petrol,Automatic,1448,187,3,2921523
+Audi,Q3,2016,162367,Petrol,Manual,3240,321,1,2281953
+Audi,Q3,2017,35741,Diesel,Automatic,2070,309,2,2753666
+Audi,Q3,2016,44577,Petrol,Automatic,1869,258,1,2590840
+Toyota,Corolla,2019,100148,Petrol,Automatic,1459,197,2,892545
+Hyundai,i20,2023,48954,Petrol,Automatic,2257,249,1,1370840
+BMW,X1,2022,161705,Diesel,Automatic,2145,174,2,2665587
+Hyundai,i20,2013,51573,Diesel,Manual,2918,406,1,968792
+BMW,5 Series,2018,117063,Diesel,Manual,1635,196,2,2411964
+BMW,3 Series,2019,77278,Petrol,Manual,2412,247,1,2889855
+Audi,A3,2021,20625,Diesel,Manual,3014,450,1,3256225
+Honda,Civic,2013,82225,Petrol,Automatic,2538,342,1,982736
+Honda,Amaze,2021,163749,Diesel,Automatic,2135,281,2,899682
+Audi,Q3,2019,78903,Diesel,Manual,2396,266,2,2661046
+BMW,X1,2018,134582,Petrol,Manual,3367,443,1,2888550
+BMW,5 Series,2019,154476,Diesel,Automatic,1046,149,1,2484008
+BMW,X1,2022,11091,Diesel,Automatic,1822,173,2,3313627
+BMW,3 Series,2014,34967,Petrol,Automatic,1861,235,1,2900900
+Honda,Civic,2017,150627,Petrol,Manual,3332,355,1,815238
+Hyundai,Creta,2018,38053,Diesel,Manual,2575,384,1,1272230
+Toyota,Corolla,2019,72765,Diesel,Manual,2413,346,2,1053353
+Honda,Amaze,2016,8229,Diesel,Automatic,1621,221,2,1189321
+Toyota,Camry,2013,146397,Petrol,Manual,3183,418,2,659150
+Audi,A4,2012,53059,Petrol,Automatic,1694,173,1,2559553
+Audi,A4,2019,75008,Diesel,Automatic,3097,389,2,2959769
+Honda,City,2021,146571,Diesel,Manual,1263,188,1,844812
+BMW,5 Series,2014,106569,Diesel,Manual,3359,345,2,2576012
+Audi,A4,2021,160313,Diesel,Manual,2719,354,1,2517021
+BMW,X1,2013,79490,Diesel,Automatic,3340,310,2,2841279
+Honda,City,2023,112779,Petrol,Automatic,2335,313,2,1234605
+BMW,3 Series,2013,144000,Petrol,Automatic,2800,276,1,2560250
+Honda,City,2016,91963,Petrol,Automatic,2532,275,3,864530
+Honda,City,2019,179078,Diesel,Manual,1181,108,1,651550
+Toyota,Fortuner,2015,117162,Petrol,Automatic,3364,406,1,981689
+Hyundai,i20,2018,21545,Diesel,Automatic,2965,406,2,1421041
+BMW,X1,2014,8292,Petrol,Automatic,3001,403,1,3018308
+Audi,A3,2013,32493,Petrol,Automatic,1726,145,2,2445105
+Audi,Q3,2023,24577,Diesel,Automatic,1008,141,1,3072225
+Hyundai,i20,2015,67949,Petrol,Automatic,2985,375,2,1132809
+Audi,A4,2017,117432,Diesel,Manual,1081,106,1,2287315
+Hyundai,Creta,2012,28245,Diesel,Manual,2140,314,1,1058681
+Audi,A4,2016,53784,Petrol,Manual,3109,269,1,2636197
+Toyota,Corolla,2013,28733,Petrol,Automatic,2132,217,2,1092454
+Hyundai,Verna,2016,174727,Diesel,Manual,1609,151,2,324078
+Hyundai,Verna,2014,35559,Diesel,Automatic,2559,278,3,870792
+BMW,X1,2015,134207,Diesel,Automatic,1996,216,3,2419135
+Hyundai,Verna,2015,50467,Petrol,Automatic,2429,195,1,987140
+Honda,City,2019,107957,Diesel,Manual,1430,172,2,775659
+BMW,X1,2013,156155,Diesel,Automatic,3105,433,3,2344312
+Audi,A3,2020,26005,Diesel,Automatic,2478,346,1,3070638
+Audi,A3,2019,22772,Petrol,Manual,3257,383,1,3038325
+Toyota,Camry,2015,62373,Petrol,Automatic,1457,158,1,895691
+BMW,X1,2017,14502,Petrol,Automatic,1519,201,1,2951233
+Audi,Q3,2014,83155,Diesel,Automatic,2837,355,2,2487696
+Hyundai,i20,2014,141001,Diesel,Manual,1152,148,2,365266
+Audi,A3,2014,142742,Petrol,Automatic,2400,198,2,2110130
+Honda,Civic,2019,126435,Diesel,Automatic,2915,406,1,1157256
+Toyota,Corolla,2012,89402,Diesel,Automatic,2110,284,1,876737
+Hyundai,Verna,2016,179859,Diesel,Manual,1000,112,2,331150
+Audi,Q3,2020,157418,Petrol,Automatic,3308,356,3,2286592
+Audi,Q3,2012,66773,Diesel,Manual,2484,217,2,2294326
+Hyundai,Creta,2020,58337,Diesel,Manual,1259,141,1,991611
+BMW,3 Series,2017,151641,Petrol,Manual,1409,116,1,2411724
+BMW,X1,2020,127583,Diesel,Automatic,1300,156,3,2553427
+BMW,3 Series,2018,88614,Diesel,Automatic,3128,299,2,2828125
+Hyundai,Creta,2012,83879,Diesel,Manual,2228,310,2,643412
+Hyundai,Verna,2016,161529,Petrol,Manual,1197,150,2,394908
+BMW,5 Series,2017,57727,Petrol,Manual,2120,242,1,2785412
+Hyundai,Verna,2023,165365,Petrol,Manual,1782,199,1,747971
+Audi,A4,2022,9950,Diesel,Automatic,1990,255,1,3301738
+BMW,5 Series,2015,15119,Diesel,Automatic,1425,122,3,2767851
+Hyundai,Verna,2014,128574,Diesel,Manual,3293,471,1,842520
+Toyota,Camry,2017,8293,Petrol,Automatic,2212,260,1,1527388
+Audi,A4,2012,13579,Diesel,Manual,1169,161,1,2604401
+Hyundai,Verna,2015,15326,Petrol,Manual,2714,306,1,1128073
+BMW,3 Series,2012,60202,Diesel,Manual,1590,178,2,2414415
+BMW,5 Series,2014,23288,Diesel,Manual,1233,121,2,2585228
+Toyota,Camry,2018,67911,Diesel,Manual,1354,123,1,1015753
+BMW,5 Series,2016,15412,Diesel,Manual,3058,387,1,3095693
+Hyundai,i20,2015,70434,Diesel,Automatic,1333,178,1,990212
+Hyundai,Verna,2012,80700,Petrol,Manual,2162,173,1,762764
+Audi,A4,2023,96512,Petrol,Automatic,1719,211,1,2719732
+Audi,A3,2019,73639,Diesel,Manual,2540,295,1,2891342
+Hyundai,i20,2016,46062,Petrol,Automatic,1533,129,2,921735
+Toyota,Camry,2019,32773,Diesel,Manual,2580,323,1,1386408
+Honda,City,2022,54591,Diesel,Manual,2433,288,1,1483907
+Toyota,Corolla,2014,75228,Petrol,Manual,3494,356,2,1031302
+BMW,5 Series,2023,176209,Diesel,Manual,1386,172,3,2234019
+Audi,Q3,2015,112504,Diesel,Automatic,3239,391,1,2621914
+Audi,A4,2017,164361,Petrol,Automatic,2079,183,1,2375299
+BMW,3 Series,2018,145031,Petrol,Manual,2391,351,1,2630168
+Audi,A3,2020,106330,Diesel,Manual,2982,440,1,2824752
+Hyundai,i20,2019,53304,Petrol,Manual,2179,200,2,1081365
+Hyundai,i20,2020,39067,Petrol,Automatic,1044,153,1,1129807
+Honda,Amaze,2018,134908,Petrol,Manual,1475,206,3,495928
+Audi,A4,2021,95618,Petrol,Automatic,2932,398,1,2847978
+Toyota,Fortuner,2013,160921,Petrol,Automatic,1676,230,1,519130
+BMW,X1,2022,105391,Diesel,Manual,1021,143,2,2531818
+Audi,A3,2018,16151,Petrol,Manual,2161,202,2,2806742
+Toyota,Fortuner,2015,112848,Petrol,Manual,1702,196,1,747507
+BMW,X1,2016,176297,Diesel,Automatic,2581,328,2,2338947
+Honda,Civic,2015,9787,Diesel,Manual,3269,450,1,1497694
+Audi,A3,2020,147431,Diesel,Manual,1838,172,2,2357961
+Toyota,Fortuner,2018,123861,Diesel,Manual,1393,201,1,792960
+Honda,Amaze,2017,135802,Petrol,Automatic,1469,218,1,660453
+Toyota,Fortuner,2021,179462,Diesel,Manual,2618,374,1,974745
+Toyota,Fortuner,2020,133666,Diesel,Automatic,2891,306,3,1079714
+Toyota,Fortuner,2013,144368,Petrol,Manual,1237,141,1,366246
+Honda,City,2018,68105,Diesel,Manual,3115,460,1,1245967
+Hyundai,Verna,2018,170006,Diesel,Automatic,2584,234,2,748782
+Audi,A4,2012,73250,Petrol,Automatic,2359,253,2,2330295
+Toyota,Fortuner,2021,81561,Petrol,Manual,2479,314,1,1170298
+Audi,A3,2014,178858,Diesel,Manual,1496,144,1,1876173
+Hyundai,Creta,2023,140612,Petrol,Automatic,1404,183,1,961689
+BMW,3 Series,2013,157026,Petrol,Automatic,2195,239,2,2273636
+Toyota,Corolla,2018,73690,Diesel,Manual,2848,351,2,1044956
+BMW,3 Series,2016,56416,Petrol,Manual,2346,214,2,2694623
+Hyundai,Creta,2012,172839,Diesel,Manual,1405,153,1,200000
+Audi,A4,2020,87900,Petrol,Manual,1469,148,3,2178944
+Hyundai,Verna,2017,74975,Diesel,Manual,1831,198,1,890720
+Audi,A4,2021,177117,Petrol,Manual,2543,207,1,2436448
+Honda,Amaze,2020,23669,Petrol,Manual,1691,164,1,1274517
+BMW,X1,2021,71114,Diesel,Manual,1582,231,2,2711087
+Honda,Amaze,2020,6385,Diesel,Automatic,1700,230,3,1386139
+Honda,Civic,2018,147628,Diesel,Automatic,2032,235,2,887556
+BMW,X1,2014,54090,Diesel,Manual,1887,164,1,2674995
+BMW,5 Series,2022,40870,Petrol,Manual,1259,152,3,2741683
+BMW,5 Series,2019,144270,Petrol,Manual,1386,164,2,2404190
+BMW,5 Series,2015,138243,Petrol,Manual,2385,307,1,2404514
+BMW,X1,2022,116207,Diesel,Automatic,1664,198,2,2715724
+Audi,A3,2017,152873,Diesel,Automatic,1222,108,3,1956272
+Audi,A3,2023,116376,Petrol,Manual,2098,231,1,2612825
+Toyota,Camry,2012,30202,Diesel,Manual,2490,276,3,922856
+Toyota,Corolla,2018,135791,Diesel,Automatic,1281,150,1,906280
+Toyota,Camry,2016,109928,Diesel,Automatic,1663,152,2,743824
+BMW,5 Series,2012,84482,Petrol,Manual,1901,202,3,2242041
+Hyundai,Verna,2022,59815,Diesel,Manual,3158,459,1,1463838
+Hyundai,i20,2023,154046,Petrol,Manual,2862,337,3,853226
+BMW,5 Series,2012,44993,Petrol,Manual,1606,209,2,2368053
+Honda,Civic,2014,164521,Petrol,Automatic,2867,401,2,595508
+Honda,Amaze,2019,152633,Petrol,Automatic,3449,458,1,1087678
+BMW,3 Series,2013,59300,Petrol,Automatic,1880,202,1,2791135
+Toyota,Camry,2023,133395,Diesel,Manual,2563,268,1,1300022
+Hyundai,Verna,2012,45696,Petrol,Manual,1119,112,1,768779
+Hyundai,Creta,2023,177369,Diesel,Automatic,2055,254,1,883563
+BMW,3 Series,2023,153197,Diesel,Manual,3394,359,2,2800562
+Hyundai,i20,2023,112827,Petrol,Manual,3462,513,1,1280089
+Toyota,Fortuner,2020,70988,Diesel,Automatic,2786,292,3,1282635
+Audi,Q3,2023,54582,Diesel,Manual,3140,278,1,3048923
+Audi,A4,2022,127646,Petrol,Automatic,1595,175,1,2615701
+Honda,Civic,2023,155844,Diesel,Automatic,2404,263,2,1030016
+Hyundai,Creta,2019,155351,Petrol,Automatic,2544,353,2,858065
+Hyundai,Verna,2015,21488,Petrol,Manual,1784,177,2,889702
+Toyota,Corolla,2022,27399,Diesel,Manual,3456,372,2,1594511
+BMW,X1,2021,28428,Petrol,Automatic,2565,259,2,3243851
+BMW,X1,2013,141286,Diesel,Manual,1713,144,1,2387691
+Hyundai,Creta,2019,21709,Diesel,Manual,2315,253,1,1252829
+Audi,A3,2012,74920,Petrol,Manual,2009,164,1,2290770
+BMW,X1,2022,149758,Petrol,Manual,3473,482,1,2872930
+Audi,A3,2022,87003,Diesel,Automatic,1081,116,1,2639013
+BMW,3 Series,2014,90239,Petrol,Automatic,1755,256,1,2623622
+Honda,City,2023,103852,Diesel,Manual,1053,108,1,956663
+Toyota,Camry,2019,106759,Diesel,Automatic,2294,255,1,1299564
+BMW,X1,2018,146099,Petrol,Manual,2922,374,1,2566361
+Honda,Civic,2018,19908,Petrol,Automatic,3248,457,3,1267157
+Toyota,Fortuner,2017,106484,Diesel,Manual,2024,171,1,895392
+Toyota,Camry,2016,79873,Diesel,Manual,2882,384,1,1271869
+Toyota,Fortuner,2018,109941,Diesel,Automatic,1471,190,1,996748
+Hyundai,Creta,2016,164064,Diesel,Manual,1741,146,1,565543
+Toyota,Fortuner,2018,155206,Diesel,Manual,3089,444,1,926661
+Toyota,Camry,2014,27359,Petrol,Manual,3415,378,1,1405284
+Toyota,Fortuner,2012,91650,Petrol,Automatic,1095,155,1,674240
+Honda,Amaze,2015,33732,Petrol,Manual,3146,450,3,912140
+Toyota,Fortuner,2019,178617,Diesel,Manual,2621,342,1,989922
+Hyundai,i20,2018,87245,Petrol,Manual,2996,285,1,1138641
+Audi,A3,2023,24311,Diesel,Manual,2424,193,1,3022564
+BMW,5 Series,2014,62038,Petrol,Automatic,2770,288,1,2980004
+Hyundai,i20,2014,116631,Petrol,Automatic,2930,424,1,1014589
+Honda,Civic,2018,136016,Diesel,Automatic,1043,100,2,577935
+Honda,Amaze,2020,66931,Petrol,Automatic,1624,133,2,1081479
+BMW,X1,2015,88337,Petrol,Automatic,3500,348,1,2989225
+Audi,A4,2018,52998,Petrol,Manual,2227,314,2,2489260
+Honda,Amaze,2017,128189,Diesel,Manual,2367,191,2,710850
+Honda,Amaze,2023,64469,Petrol,Manual,2199,316,1,1406728
+Toyota,Camry,2018,23145,Diesel,Manual,3159,436,2,1351049
+Audi,Q3,2019,144659,Diesel,Automatic,2399,228,1,2665412
+Honda,City,2021,56638,Diesel,Automatic,1999,260,1,1397691
+Toyota,Corolla,2019,33871,Petrol,Manual,3196,279,2,1381422
+BMW,3 Series,2014,147533,Diesel,Manual,3211,400,1,2636506
+Hyundai,Verna,2018,164071,Petrol,Manual,2486,301,1,802296
+Hyundai,i20,2018,53060,Petrol,Manual,3410,420,1,1386915
+Honda,Amaze,2022,73498,Diesel,Automatic,1214,163,1,1255275
+Honda,Civic,2021,150199,Diesel,Automatic,3023,256,1,1034235
+Toyota,Camry,2014,116416,Petrol,Manual,2393,272,1,688585
+Honda,Amaze,2021,59027,Petrol,Manual,3113,398,1,1304249
+BMW,5 Series,2014,116634,Petrol,Automatic,1552,178,1,2421765
+Toyota,Camry,2019,56850,Petrol,Automatic,3216,451,1,1572474
+BMW,3 Series,2012,6978,Diesel,Automatic,3240,456,2,3072856
+Honda,City,2022,111933,Diesel,Manual,2347,298,2,1066051
+Hyundai,Verna,2015,126401,Petrol,Manual,3152,447,1,847926
+Toyota,Fortuner,2016,162177,Diesel,Automatic,2838,410,2,805733
+BMW,3 Series,2019,71344,Petrol,Automatic,3198,441,1,3251308
+Audi,A3,2017,28974,Diesel,Automatic,1648,149,3,2566230
+Honda,Civic,2021,105687,Diesel,Automatic,2194,220,1,1242944
+Hyundai,i20,2018,48607,Petrol,Automatic,1734,209,1,1057128
+BMW,3 Series,2019,161304,Petrol,Automatic,1322,129,1,2361598
+Toyota,Fortuner,2015,149540,Petrol,Manual,1550,232,1,545233
+Audi,A4,2020,49129,Petrol,Automatic,3007,294,2,2924111
+BMW,3 Series,2023,21498,Diesel,Automatic,3301,417,1,3702372
+BMW,5 Series,2018,162360,Diesel,Automatic,3189,359,2,2589225
+BMW,X1,2018,110116,Diesel,Manual,3223,453,2,2787039
+Toyota,Camry,2015,79235,Petrol,Manual,2055,289,1,1007798
+Hyundai,Creta,2015,171665,Diesel,Automatic,1660,239,1,519350
+Toyota,Corolla,2022,51020,Petrol,Automatic,3100,334,1,1527940
+Honda,Civic,2019,124655,Diesel,Manual,2701,358,1,1027203
+Audi,A3,2017,73118,Diesel,Manual,1523,176,2,2525469
+Toyota,Camry,2020,107394,Diesel,Manual,1895,212,1,1082005
+BMW,3 Series,2019,142645,Petrol,Manual,3022,398,3,2472408
+Hyundai,Creta,2021,107474,Petrol,Manual,2163,174,2,982435
+Audi,Q3,2019,17353,Diesel,Automatic,2008,221,1,2988994
+Toyota,Camry,2021,84063,Petrol,Manual,1137,114,1,1088641
+Honda,Amaze,2018,32319,Diesel,Automatic,1308,128,2,1036453
+BMW,5 Series,2022,159300,Diesel,Automatic,2223,182,1,2756276
+BMW,3 Series,2020,62110,Petrol,Manual,2828,383,1,3120940
+BMW,X1,2018,92996,Diesel,Manual,2126,293,1,2844882
+Honda,Amaze,2021,69457,Petrol,Automatic,2605,312,2,1214704
+BMW,3 Series,2021,166307,Petrol,Manual,3348,446,1,2691483
+Audi,Q3,2016,166807,Petrol,Manual,1902,263,3,1813815
+Audi,Q3,2015,66497,Petrol,Automatic,1113,146,1,2358341
+Audi,A4,2022,20040,Diesel,Automatic,2360,229,1,3108763
+Toyota,Fortuner,2015,93566,Diesel,Manual,1266,184,1,768863
+Audi,A4,2012,18761,Diesel,Automatic,3273,316,2,2735307
+Audi,Q3,2016,82007,Petrol,Automatic,2995,446,1,2635839
+Audi,A4,2015,154134,Diesel,Automatic,1337,166,1,2150873
+Toyota,Camry,2020,93885,Diesel,Manual,2394,272,1,1164362
+BMW,X1,2017,86002,Petrol,Manual,3133,311,1,2818721
+Honda,City,2020,55543,Petrol,Manual,1424,117,2,963150
+Hyundai,Creta,2019,160577,Petrol,Manual,3202,462,1,990145
+Toyota,Camry,2021,63851,Diesel,Manual,1761,221,1,1378897
+BMW,5 Series,2018,144681,Petrol,Automatic,1754,254,1,2602295
+Audi,A4,2018,83874,Diesel,Automatic,1397,175,1,2500506
+Audi,A4,2020,84973,Diesel,Manual,1031,115,3,2236293
+Honda,City,2015,69863,Diesel,Automatic,1933,158,1,1099765
+BMW,X1,2020,163094,Petrol,Manual,1040,136,1,2347770
+BMW,3 Series,2013,49047,Diesel,Automatic,1152,133,2,2449890
+Hyundai,Creta,2013,56571,Petrol,Manual,2583,364,3,700677
+Hyundai,i20,2021,170396,Petrol,Automatic,1246,183,1,744562
+BMW,5 Series,2016,54158,Diesel,Automatic,1139,143,3,2454873
+Toyota,Camry,2019,158397,Diesel,Manual,1396,155,1,874431
+Honda,City,2013,125062,Petrol,Automatic,2248,258,3,526849
+Hyundai,Creta,2017,24160,Petrol,Automatic,1478,138,3,949911
+BMW,3 Series,2022,145095,Petrol,Automatic,2869,234,1,2887760
+Hyundai,i20,2012,170730,Diesel,Manual,1512,123,1,370461
+BMW,5 Series,2016,26950,Diesel,Manual,2675,307,3,2880973
+Toyota,Fortuner,2019,45492,Petrol,Manual,1478,209,2,1140545
+Toyota,Camry,2017,76362,Petrol,Manual,2319,345,2,930396
+Toyota,Fortuner,2022,122732,Diesel,Manual,2038,249,2,980210
+Toyota,Fortuner,2014,149324,Diesel,Automatic,1821,229,1,788669
+BMW,5 Series,2023,11117,Diesel,Automatic,1542,166,2,3211515
+Hyundai,i20,2022,50944,Petrol,Manual,2933,377,3,1215315
+Honda,City,2013,76358,Petrol,Automatic,2447,223,1,908099
+Toyota,Corolla,2022,89614,Petrol,Manual,2170,258,1,1346103
+Toyota,Corolla,2013,70842,Petrol,Manual,2231,202,1,778385
+Toyota,Camry,2018,60653,Diesel,Automatic,2343,221,1,1358279
+Hyundai,Verna,2013,139734,Diesel,Manual,2986,317,1,788138
+Toyota,Camry,2017,34731,Diesel,Automatic,2128,301,2,1219020
+Toyota,Corolla,2022,167857,Diesel,Automatic,2913,238,3,886721
+BMW,X1,2022,96417,Diesel,Automatic,2245,238,2,2827645
+Audi,A4,2022,144701,Petrol,Manual,2798,288,2,2456057
+Audi,Q3,2013,174351,Petrol,Manual,3450,279,1,2178044
+BMW,3 Series,2020,50188,Diesel,Automatic,3452,316,1,3358382
+Hyundai,Creta,2021,169463,Petrol,Automatic,2746,272,2,867738
+BMW,5 Series,2012,157287,Petrol,Manual,1273,126,2,1958578
+Audi,A4,2015,68567,Petrol,Manual,3423,355,1,2678318
+Honda,Amaze,2021,156538,Diesel,Manual,3354,303,2,1016408
+Hyundai,i20,2014,170999,Petrol,Automatic,1584,128,1,369200
+Honda,Civic,2021,69016,Diesel,Manual,3334,328,3,1119531
+Hyundai,Verna,2014,9875,Diesel,Manual,2104,285,2,1011139
+Audi,Q3,2017,178940,Petrol,Manual,1396,197,2,1987366
+Audi,A3,2021,24129,Diesel,Manual,2759,278,1,2987770
+BMW,X1,2023,86635,Petrol,Automatic,2317,333,1,3196642
+Hyundai,i20,2018,31766,Diesel,Manual,3084,290,3,1217263
+BMW,X1,2020,88579,Petrol,Automatic,1384,143,1,2724858
+Honda,Amaze,2016,113111,Petrol,Automatic,2091,280,3,743534
+Honda,Civic,2019,117199,Diesel,Manual,2512,282,1,1149195
+Hyundai,Creta,2012,53379,Petrol,Automatic,3411,344,1,1087561
+Toyota,Corolla,2017,20258,Petrol,Automatic,2447,207,1,1440477
+Audi,Q3,2012,86142,Diesel,Automatic,1377,179,1,2441459
+BMW,5 Series,2019,82541,Diesel,Automatic,3235,279,2,2997342
+Audi,A4,2012,85675,Diesel,Manual,1168,173,1,2275775
+Hyundai,i20,2014,22875,Petrol,Manual,1547,189,2,857635
+Honda,City,2017,17538,Petrol,Manual,2692,384,2,1313571
+Toyota,Corolla,2012,123435,Petrol,Manual,1666,166,1,536665
+Toyota,Camry,2021,177920,Diesel,Manual,2408,333,1,1011454
+Toyota,Corolla,2020,118703,Diesel,Automatic,2248,295,2,1161484
+Toyota,Camry,2021,104795,Diesel,Manual,3154,385,3,1049661
+Toyota,Corolla,2018,42615,Petrol,Automatic,2883,398,1,1420907
+BMW,5 Series,2013,156995,Petrol,Manual,2838,317,2,2205204
+Toyota,Camry,2021,145191,Diesel,Manual,1506,166,1,1002199
+Hyundai,i20,2020,77439,Diesel,Manual,1488,209,1,1019581
+Audi,Q3,2018,79215,Petrol,Automatic,2058,252,3,2415194
+Toyota,Fortuner,2012,27897,Petrol,Automatic,2447,319,1,1255011
+Hyundai,Creta,2021,102576,Petrol,Manual,1825,215,1,926678
+Audi,A3,2023,155050,Petrol,Manual,2716,330,1,2689006
+Audi,A3,2017,64212,Petrol,Manual,2563,227,1,2664344
+Honda,City,2014,43772,Petrol,Manual,2082,255,2,988388
+Toyota,Fortuner,2013,110285,Diesel,Manual,1266,157,3,334264
+Honda,Amaze,2018,179425,Diesel,Automatic,2005,167,1,765477
+BMW,5 Series,2014,153634,Petrol,Manual,1195,146,3,1982628
+Hyundai,Verna,2013,128645,Petrol,Manual,2816,359,2,575152
+Honda,Amaze,2013,72480,Petrol,Automatic,2360,302,1,1034124
+Honda,Civic,2013,30453,Petrol,Manual,3397,460,1,1259653
+BMW,5 Series,2016,166981,Petrol,Manual,1558,147,3,1989002
+BMW,5 Series,2019,161216,Diesel,Manual,3217,481,2,2742381
+Audi,Q3,2022,150124,Petrol,Manual,2351,210,1,2556201
+Audi,A3,2016,97986,Diesel,Automatic,1178,118,2,2277630
+Hyundai,Verna,2014,161625,Diesel,Manual,1869,227,2,353350
+Audi,A3,2018,128675,Petrol,Manual,3205,443,1,2525194
+Audi,Q3,2017,164918,Diesel,Automatic,2833,341,1,2560219
+Hyundai,Verna,2012,24197,Petrol,Manual,2832,251,1,1022854
+Honda,Civic,2020,6215,Diesel,Manual,3330,295,1,1653570
+Hyundai,Verna,2023,115060,Diesel,Automatic,2467,295,1,1296079
+BMW,5 Series,2017,93183,Diesel,Automatic,3314,385,2,2975467
+Audi,A3,2017,103437,Diesel,Automatic,2303,238,1,2545831
+Audi,A3,2015,101058,Petrol,Automatic,2489,287,1,2560504
+Toyota,Fortuner,2019,49566,Petrol,Manual,3101,345,2,1226874
+BMW,3 Series,2023,74095,Diesel,Automatic,1510,224,1,3088829
+Audi,Q3,2013,45488,Petrol,Manual,2029,260,1,2547047
+BMW,X1,2017,99814,Petrol,Manual,3361,423,1,2841687
+BMW,3 Series,2023,172090,Petrol,Manual,3360,341,2,2752514
+Toyota,Camry,2012,116011,Petrol,Automatic,3331,279,1,899498
+Toyota,Camry,2014,97781,Diesel,Automatic,2849,293,1,1059784
+BMW,3 Series,2014,171579,Petrol,Automatic,2891,238,2,2200761
+BMW,3 Series,2017,101124,Petrol,Manual,2800,270,1,2659435
+BMW,3 Series,2020,153841,Petrol,Manual,2054,270,1,2529681
+Hyundai,Verna,2016,35318,Petrol,Automatic,2990,398,2,1309204
+BMW,3 Series,2016,74752,Petrol,Manual,3366,309,1,2798389
+BMW,3 Series,2021,103216,Petrol,Automatic,2331,275,1,3071848
+Hyundai,Creta,2022,137196,Diesel,Automatic,1983,284,1,998449
+Hyundai,i20,2012,18337,Diesel,Manual,1864,151,3,656072
+Honda,Civic,2013,97417,Petrol,Automatic,2013,161,2,726316
+Audi,A3,2020,130397,Diesel,Manual,2190,213,1,2565542
+BMW,3 Series,2017,134321,Diesel,Automatic,2453,282,1,2678018
+BMW,5 Series,2012,71524,Petrol,Automatic,1643,219,2,2359135
+Audi,A4,2016,124640,Petrol,Automatic,1169,97,3,2015761
+Audi,A3,2016,42096,Petrol,Automatic,2015,213,3,2527035
+Hyundai,i20,2015,29529,Petrol,Automatic,2605,340,1,1292889
+Audi,A4,2022,175357,Diesel,Automatic,1012,137,1,2456360
+Audi,A4,2019,15227,Petrol,Automatic,1693,191,1,2929836
+Audi,A3,2013,175676,Petrol,Automatic,2060,180,1,2105450
+Hyundai,Creta,2020,159531,Diesel,Manual,2985,379,3,597010
+Toyota,Fortuner,2016,47595,Diesel,Manual,1400,139,2,842609
+Toyota,Camry,2017,33441,Petrol,Automatic,2238,192,2,1263751
+BMW,X1,2012,84826,Diesel,Manual,1316,150,1,2410563
+Toyota,Fortuner,2022,90904,Diesel,Automatic,1571,197,1,1215066
+Hyundai,Verna,2015,150554,Diesel,Manual,2683,222,2,523911
+Audi,A3,2018,77560,Petrol,Manual,2344,226,2,2434279
+Audi,Q3,2021,43861,Petrol,Manual,1846,158,2,2752917
+Hyundai,Creta,2022,23685,Petrol,Manual,1659,217,3,1002499
+Audi,A3,2023,43888,Petrol,Automatic,2714,372,2,3099479
+Hyundai,Creta,2022,119854,Diesel,Manual,1796,227,2,835963
+Honda,Amaze,2016,59450,Diesel,Manual,2158,273,2,916114
+Toyota,Camry,2021,178466,Petrol,Automatic,1797,143,1,918579
+Hyundai,Verna,2019,11034,Petrol,Manual,1126,133,1,1061293
+BMW,5 Series,2014,137371,Diesel,Manual,1947,278,2,2290523
+Hyundai,i20,2022,99003,Petrol,Automatic,2697,387,2,1236863
+Audi,A4,2019,130949,Petrol,Manual,1239,137,1,2256463
+Hyundai,i20,2016,172716,Diesel,Automatic,2896,243,3,512183
+Hyundai,Creta,2020,8374,Petrol,Automatic,3314,343,3,1370563
+Hyundai,i20,2013,102862,Petrol,Automatic,2061,181,2,718643
+BMW,X1,2013,132000,Diesel,Automatic,1054,132,3,2180155
+Audi,A4,2013,83539,Petrol,Manual,1507,141,1,2232252
+BMW,3 Series,2016,7078,Diesel,Automatic,1826,189,2,2970973
+Audi,Q3,2017,68231,Diesel,Automatic,1330,161,1,2691599
+Honda,Civic,2012,178708,Petrol,Automatic,2332,228,1,578717
+Toyota,Camry,2022,130228,Petrol,Automatic,2897,396,1,1290578
+BMW,3 Series,2016,17120,Diesel,Manual,2029,175,1,3048395
+Toyota,Corolla,2014,165342,Diesel,Manual,1546,123,1,434709
+Toyota,Fortuner,2021,24789,Diesel,Automatic,2600,300,1,1773718
+Hyundai,Creta,2020,140633,Diesel,Automatic,2244,321,3,861462
+BMW,X1,2018,54678,Diesel,Automatic,3348,307,1,3315867
+Audi,Q3,2021,34218,Diesel,Automatic,3301,418,1,3223533
+BMW,X1,2015,83579,Petrol,Manual,1592,224,2,2521126
+Hyundai,Creta,2020,130673,Petrol,Automatic,3366,474,2,945976
+Hyundai,i20,2016,62617,Diesel,Automatic,1373,125,1,1098633
+Honda,Civic,2019,88795,Diesel,Manual,2192,177,1,979066
+Hyundai,i20,2015,45272,Petrol,Manual,2655,278,2,877546
+Hyundai,i20,2020,114668,Diesel,Manual,1377,119,1,807379
+Toyota,Fortuner,2023,75886,Petrol,Automatic,1224,100,2,1057187
+Hyundai,Verna,2017,156404,Diesel,Automatic,2203,204,1,817952
+BMW,5 Series,2016,56801,Diesel,Manual,1620,142,3,2611834
+Toyota,Camry,2022,144779,Petrol,Manual,1831,174,2,934026
+BMW,5 Series,2019,43521,Diesel,Automatic,1623,225,1,3122209
+Audi,Q3,2017,100522,Diesel,Manual,1103,143,1,2436779
+Toyota,Fortuner,2023,99596,Diesel,Automatic,3196,427,1,1613658
+Audi,A3,2016,77819,Diesel,Automatic,2242,312,2,2604217
+Toyota,Camry,2013,124727,Diesel,Automatic,1141,142,1,687442
+Audi,Q3,2019,6001,Petrol,Automatic,1917,200,2,2871551
+BMW,X1,2016,76946,Diesel,Manual,2527,317,3,2688379
+Hyundai,i20,2016,46572,Petrol,Automatic,1375,128,2,982423
+BMW,3 Series,2021,174388,Petrol,Automatic,1060,92,2,2263319
+Honda,Civic,2013,126122,Petrol,Automatic,2140,299,2,620765
+Audi,A4,2013,61125,Diesel,Automatic,1249,114,2,2234565
+Hyundai,i20,2012,135628,Petrol,Manual,1830,258,2,255536
+Audi,A3,2016,108485,Diesel,Automatic,2566,239,2,2511744
+Audi,A4,2014,105970,Diesel,Automatic,2134,220,2,2393758
+Toyota,Corolla,2017,103359,Diesel,Automatic,2686,236,1,1241969
+Audi,Q3,2016,11489,Petrol,Manual,3223,418,1,3042936
+Audi,Q3,2020,32147,Diesel,Automatic,2471,255,1,3105089
+BMW,3 Series,2022,102379,Diesel,Automatic,2364,338,1,2982553
+BMW,3 Series,2014,75749,Petrol,Manual,3262,410,1,2810555
+Toyota,Camry,2023,147934,Petrol,Automatic,1983,233,2,1033367
+BMW,3 Series,2023,76072,Petrol,Automatic,3420,291,2,3219917
+Toyota,Camry,2019,93009,Diesel,Manual,2629,338,1,1243984
+Toyota,Fortuner,2022,170430,Diesel,Automatic,1014,95,1,767696
+Toyota,Fortuner,2015,135714,Petrol,Manual,2144,227,1,828190
+Honda,City,2012,178066,Petrol,Manual,2080,201,1,302236
+Toyota,Camry,2021,136136,Diesel,Manual,3044,358,2,1070169
+Honda,City,2016,124781,Diesel,Automatic,2071,188,3,547648
+Toyota,Fortuner,2019,66962,Diesel,Automatic,1449,140,1,1317484
+Toyota,Camry,2016,71907,Diesel,Automatic,1860,222,1,1175421
+BMW,X1,2023,158017,Diesel,Automatic,2735,263,3,2782732
+BMW,3 Series,2020,29410,Petrol,Manual,1380,112,3,2614638
+Audi,A3,2015,131064,Petrol,Automatic,1252,117,1,2150653
+Hyundai,Verna,2021,113107,Petrol,Manual,1655,162,2,673650
+Audi,A4,2013,108796,Diesel,Manual,2858,318,1,2494404
+BMW,3 Series,2015,39740,Diesel,Automatic,1990,182,1,2823754
+BMW,X1,2012,173354,Diesel,Automatic,1621,213,1,2120590
+BMW,X1,2015,128668,Diesel,Automatic,3448,395,1,2696993
+Toyota,Fortuner,2019,90031,Petrol,Manual,3373,459,1,1416354
+Hyundai,i20,2020,175241,Diesel,Automatic,1946,195,2,648272
+Honda,Civic,2022,91429,Petrol,Manual,3164,273,1,1401471
+Hyundai,Verna,2015,36642,Diesel,Automatic,1992,289,1,1150637
+Toyota,Camry,2012,70442,Diesel,Manual,3397,449,1,1043688
+Toyota,Camry,2017,60546,Diesel,Manual,3363,323,1,1349331
+BMW,X1,2020,137271,Petrol,Manual,1636,172,1,2547047
+Hyundai,Verna,2014,166163,Diesel,Manual,1689,142,2,233481
+Hyundai,Creta,2023,30277,Diesel,Automatic,2574,270,1,1623375
+Audi,Q3,2017,22933,Diesel,Manual,3045,340,3,2839808
+Audi,A3,2020,152067,Diesel,Manual,1218,166,1,2396922
+Honda,Civic,2013,49431,Petrol,Automatic,1324,142,2,830412
+BMW,5 Series,2013,36041,Petrol,Automatic,1007,92,2,2508770
+Audi,A3,2017,48928,Petrol,Automatic,3215,320,2,2769088
+BMW,3 Series,2019,119319,Diesel,Automatic,2058,174,1,2803616
+Audi,Q3,2013,37655,Diesel,Automatic,2058,248,3,2497101
+Honda,City,2021,155284,Diesel,Automatic,1017,125,3,524984
+Honda,Amaze,2014,166671,Diesel,Manual,1840,242,1,589379
+BMW,3 Series,2023,84303,Diesel,Automatic,2216,289,1,3270343
+Hyundai,Creta,2021,177658,Diesel,Automatic,3254,264,1,1064004
+Honda,Amaze,2013,23442,Diesel,Manual,2998,404,2,1121168
+BMW,X1,2017,157390,Diesel,Manual,1550,194,2,2201166
+Audi,A3,2019,86879,Diesel,Manual,3048,370,3,2618280
+Hyundai,Creta,2019,143659,Petrol,Automatic,3058,406,2,979028
+Hyundai,Verna,2012,44916,Petrol,Manual,1996,207,3,494803
+Toyota,Corolla,2015,143594,Diesel,Manual,1585,219,2,613921
+Honda,Civic,2018,104600,Petrol,Manual,1784,155,1,770249
+Hyundai,i20,2013,64717,Diesel,Manual,2035,242,2,725906
+Audi,A3,2018,138893,Diesel,Manual,3020,273,3,2305004
+Hyundai,Verna,2013,124276,Petrol,Manual,1013,84,2,268442
+Audi,A4,2012,123904,Petrol,Automatic,2645,333,3,2111263
+Audi,Q3,2019,174478,Diesel,Manual,2159,254,1,2373650
+Honda,Civic,2016,171307,Diesel,Automatic,1936,221,1,744839
+Toyota,Fortuner,2017,51424,Petrol,Manual,2937,281,1,1188418
+BMW,3 Series,2015,122646,Petrol,Automatic,1658,221,1,2399273
+Audi,Q3,2018,98224,Petrol,Automatic,2440,361,3,2325774
+Audi,A3,2017,25396,Diesel,Manual,2003,187,1,2822743
+Honda,Amaze,2023,54810,Petrol,Manual,3323,379,2,1488560
+BMW,5 Series,2017,9307,Petrol,Automatic,2302,250,2,2958022
+Toyota,Fortuner,2012,73031,Petrol,Manual,1887,151,2,670563
+Audi,A4,2017,138184,Petrol,Automatic,3479,370,1,2709860
+Honda,Civic,2020,100852,Diesel,Automatic,2552,234,3,1098487
+BMW,X1,2021,111069,Petrol,Automatic,1226,162,1,2738574
+Toyota,Corolla,2014,33656,Diesel,Automatic,1936,258,1,1271240
+Toyota,Fortuner,2019,26189,Diesel,Manual,3180,366,1,1546965
+Honda,Amaze,2014,154187,Diesel,Manual,2550,206,2,475947
+BMW,3 Series,2016,128080,Diesel,Manual,2421,282,1,2689310
+Honda,Civic,2017,151812,Petrol,Automatic,1011,122,1,657792
+Hyundai,Creta,2020,23287,Petrol,Manual,2502,337,1,1411374
+BMW,5 Series,2016,118263,Petrol,Manual,2499,287,1,2473404
+Toyota,Corolla,2013,61182,Diesel,Manual,3158,327,1,1108640
+Audi,A3,2023,127152,Petrol,Automatic,1607,206,3,2474267
+Toyota,Corolla,2018,91811,Petrol,Manual,2187,188,1,1071888
+BMW,5 Series,2020,65530,Diesel,Manual,3027,408,1,3130240
+Audi,A4,2018,113467,Petrol,Manual,2448,335,1,2515437
+Toyota,Camry,2017,9399,Diesel,Automatic,1615,230,3,1099161
+Audi,A4,2012,45795,Diesel,Manual,1048,126,1,2253142
+Honda,Civic,2020,75633,Diesel,Manual,1821,164,3,887867
+Audi,Q3,2012,161606,Diesel,Automatic,2161,214,2,1964908
+Honda,Civic,2015,111375,Diesel,Automatic,3390,490,1,1208267
+Honda,Civic,2023,135407,Diesel,Manual,1215,133,1,959475
+Honda,Amaze,2019,89885,Diesel,Automatic,3438,278,1,1480973
+Hyundai,Creta,2023,147153,Diesel,Automatic,3499,368,1,1203167
+Audi,A3,2021,56790,Diesel,Automatic,1993,160,2,2810434
+Toyota,Corolla,2014,78128,Petrol,Manual,1608,154,2,717663
+Toyota,Camry,2012,84439,Diesel,Automatic,2476,244,1,991255
+Honda,Civic,2017,115190,Diesel,Automatic,2818,256,2,868768
+BMW,5 Series,2021,137033,Petrol,Automatic,1139,164,1,2675700
+Honda,Civic,2014,42704,Petrol,Manual,2907,377,3,968176
+Hyundai,Creta,2019,170089,Petrol,Manual,2237,224,1,591296
+Honda,Civic,2019,45288,Diesel,Manual,1523,149,2,935383
+Toyota,Corolla,2021,153573,Diesel,Automatic,1274,170,1,965038
+Audi,A4,2020,150666,Petrol,Manual,3436,324,2,2492765
+Hyundai,i20,2023,175844,Diesel,Manual,2228,207,3,730811
+Audi,A4,2019,167795,Diesel,Manual,2445,347,2,2362690
+Honda,Civic,2016,12719,Petrol,Manual,3451,422,2,1311938
+Hyundai,Verna,2021,75702,Petrol,Automatic,2256,200,3,1030754
+Audi,A3,2012,84867,Diesel,Manual,1808,160,1,2356468
+Toyota,Corolla,2020,80445,Diesel,Automatic,3022,249,2,1413201
+BMW,3 Series,2012,127488,Diesel,Manual,2844,283,2,2440658
+BMW,3 Series,2022,22512,Diesel,Automatic,1019,128,2,3025865
+Honda,City,2019,11229,Diesel,Automatic,1107,107,1,1385150
+BMW,X1,2016,145217,Petrol,Manual,1758,231,1,2428984
+Hyundai,i20,2014,41738,Petrol,Manual,1343,147,1,764210
+Toyota,Corolla,2019,126040,Petrol,Automatic,2523,371,3,827584
+Toyota,Corolla,2018,9854,Petrol,Automatic,3393,276,2,1415117
+Audi,Q3,2020,109034,Diesel,Automatic,3312,414,1,2849922
+Hyundai,Creta,2023,77851,Diesel,Manual,2479,305,1,1286265
+Hyundai,Verna,2012,124577,Diesel,Manual,1092,137,1,376264
+Honda,City,2018,69379,Diesel,Manual,1603,152,1,1018761
+Audi,A4,2020,171757,Petrol,Automatic,2275,255,1,2509597
+Honda,Civic,2017,98492,Diesel,Manual,2379,195,1,960439
+BMW,3 Series,2023,162051,Diesel,Manual,1745,205,2,2491026
+BMW,X1,2022,163665,Petrol,Manual,1020,137,2,2244188
+Toyota,Camry,2023,148362,Diesel,Manual,2794,291,1,1185370
+Audi,A4,2014,176236,Diesel,Automatic,2030,205,1,2121922
+BMW,3 Series,2014,144323,Petrol,Automatic,3174,348,2,2445168
+Hyundai,Verna,2019,139711,Diesel,Manual,1602,227,2,690529
+BMW,X1,2023,6877,Petrol,Automatic,1639,221,2,3274417
+Honda,Civic,2013,137005,Diesel,Manual,2400,306,2,593898
+BMW,3 Series,2022,29243,Diesel,Automatic,3347,294,3,3192880
+Toyota,Fortuner,2014,136539,Petrol,Automatic,2454,315,1,836314
+Honda,Civic,2012,111634,Diesel,Automatic,1252,114,1,731242
+Honda,Civic,2018,93575,Diesel,Manual,2013,192,1,1103301
+Hyundai,i20,2019,159710,Diesel,Manual,2311,197,2,555025
+Audi,A4,2017,144716,Diesel,Manual,2635,332,2,2266510
+Toyota,Camry,2016,149994,Petrol,Manual,2969,305,2,691421
+BMW,5 Series,2019,77151,Petrol,Automatic,2579,218,2,2843778
+Audi,A3,2015,81905,Petrol,Automatic,1459,179,1,2510969
+BMW,3 Series,2021,9664,Diesel,Automatic,1239,170,2,3093000
+Honda,Civic,2021,14957,Diesel,Automatic,2746,272,1,1683399
+Hyundai,i20,2022,95250,Petrol,Manual,2607,379,1,1088553
+Audi,A4,2017,121501,Petrol,Automatic,2548,301,2,2462101
+BMW,X1,2017,95150,Diesel,Automatic,1141,142,1,2755846
+Audi,A3,2022,107587,Petrol,Manual,2032,235,2,2535350
+Hyundai,Creta,2020,143487,Diesel,Manual,2511,343,2,940263
+BMW,3 Series,2012,104533,Diesel,Manual,1220,128,1,2273013
+BMW,5 Series,2021,141445,Petrol,Manual,2729,284,2,2565255
+BMW,5 Series,2015,179633,Diesel,Manual,2810,396,1,2375695
+Toyota,Fortuner,2022,83370,Diesel,Automatic,2763,345,3,1293604
+Hyundai,Creta,2012,59908,Diesel,Automatic,2325,245,1,886390
+Honda,Civic,2017,95853,Diesel,Manual,2539,345,1,1112155
+Honda,City,2022,113228,Diesel,Automatic,2515,301,1,1247084
+Hyundai,Verna,2019,15006,Petrol,Manual,2486,341,1,1470347
+Hyundai,Creta,2013,161279,Diesel,Manual,3244,334,2,423898
+Honda,City,2015,85874,Petrol,Automatic,2432,341,1,987634
+BMW,X1,2021,159588,Petrol,Automatic,1733,219,1,2546304
+BMW,5 Series,2013,36829,Petrol,Manual,2714,321,1,2732558
+Audi,A3,2013,32552,Diesel,Manual,3063,322,2,2636056
+BMW,5 Series,2012,103424,Petrol,Automatic,2045,273,1,2529043
+Honda,Amaze,2017,33426,Petrol,Manual,3168,330,1,1428970
+BMW,X1,2020,169690,Diesel,Automatic,1337,124,2,2375555
+Honda,Amaze,2016,157483,Diesel,Automatic,1303,132,2,498679
+Honda,Amaze,2018,133500,Diesel,Automatic,3150,365,2,959128
+Honda,City,2015,110521,Diesel,Manual,3476,346,1,1003934
+Hyundai,Verna,2019,73019,Petrol,Automatic,2400,329,2,1157922
+Audi,A3,2017,167759,Diesel,Manual,2764,378,1,2259238
+Toyota,Corolla,2022,129376,Diesel,Manual,2415,334,1,1229250
+Honda,Civic,2019,9341,Petrol,Automatic,2131,233,1,1427579
+BMW,3 Series,2015,76954,Petrol,Manual,1021,90,2,2442754
+Honda,Civic,2018,9168,Petrol,Automatic,2606,358,1,1595399
+Hyundai,i20,2019,7372,Petrol,Manual,2309,320,1,1276757
+BMW,X1,2012,65568,Petrol,Automatic,2605,363,1,2648700
+Audi,Q3,2016,164018,Petrol,Automatic,2796,398,1,2473357
+BMW,X1,2022,79997,Diesel,Manual,1192,99,2,2780967
+BMW,5 Series,2020,102080,Petrol,Manual,1945,187,1,2793871
+Honda,Amaze,2023,52125,Diesel,Automatic,3115,275,1,1667356
+Toyota,Corolla,2021,65428,Petrol,Automatic,1226,102,1,1277064
+BMW,X1,2014,157472,Petrol,Manual,3281,374,3,2106149
+Audi,A3,2015,163751,Petrol,Manual,1577,137,2,1793200
+Honda,Civic,2020,149598,Diesel,Manual,1834,150,1,738837
+BMW,3 Series,2020,65136,Diesel,Manual,3044,381,1,3024273
+Audi,A3,2014,168855,Petrol,Manual,1422,163,1,1918598
+Toyota,Corolla,2023,129784,Petrol,Automatic,3460,355,1,1382879
+Hyundai,Creta,2023,40246,Diesel,Manual,2557,343,1,1587255
+BMW,3 Series,2014,142275,Petrol,Manual,3371,369,1,2651018
+Honda,Civic,2020,122555,Petrol,Automatic,3153,296,1,1279883
+Audi,A3,2016,44505,Diesel,Manual,1915,186,2,2492315
+Honda,City,2013,114504,Petrol,Automatic,2937,241,1,782522
+Honda,City,2016,24887,Diesel,Manual,2137,224,1,1275960
+Hyundai,Verna,2013,44569,Diesel,Manual,2486,281,2,862012
+Honda,Civic,2020,93066,Diesel,Manual,1752,195,1,1088587
+Audi,A4,2019,36981,Diesel,Manual,3032,299,1,2941903
+Audi,A4,2014,95810,Petrol,Automatic,1889,272,1,2439091
+Honda,Amaze,2012,81050,Petrol,Manual,3256,370,1,955099
+Toyota,Camry,2013,136232,Petrol,Automatic,3237,446,2,752065
+Hyundai,Verna,2022,155318,Diesel,Manual,2347,284,1,844207
+Audi,Q3,2022,157341,Petrol,Automatic,3327,351,2,2708888
+Toyota,Corolla,2016,8475,Diesel,Automatic,2640,263,1,1554540
+Toyota,Camry,2013,129867,Petrol,Manual,1793,178,1,607572
+BMW,X1,2016,84171,Petrol,Automatic,2789,375,1,3002137
+BMW,X1,2016,159139,Petrol,Automatic,3426,505,2,2549822
+Audi,A3,2013,97745,Diesel,Automatic,3366,440,1,2530368
+BMW,X1,2023,116993,Diesel,Manual,1193,157,2,2659975
+BMW,3 Series,2023,8968,Petrol,Manual,1309,106,2,3071792
+BMW,X1,2013,38007,Diesel,Manual,2516,215,2,2802112
+Audi,Q3,2013,136196,Petrol,Manual,2719,321,2,2175477
+Hyundai,Creta,2016,108460,Petrol,Manual,1072,147,1,537236
+BMW,X1,2012,154752,Petrol,Automatic,3352,375,1,2574445
+BMW,X1,2022,157840,Petrol,Automatic,2700,273,2,2683664
+BMW,3 Series,2022,39872,Petrol,Manual,2651,374,1,3284232
+BMW,5 Series,2020,84602,Diesel,Manual,1396,170,2,2583842
+Audi,A3,2019,18875,Diesel,Manual,3267,282,2,2928473
+Hyundai,i20,2019,155941,Petrol,Manual,2817,366,1,757350
+Honda,City,2016,105791,Petrol,Automatic,1434,194,2,618184
+Hyundai,Verna,2020,107068,Petrol,Manual,2513,239,1,1108645
+Audi,A3,2014,67957,Petrol,Automatic,1582,158,1,2409822
+Toyota,Camry,2022,26162,Diesel,Manual,2516,285,1,1615776
+Audi,A3,2016,98384,Petrol,Manual,2103,303,1,2499763
+Hyundai,i20,2016,83040,Diesel,Manual,1811,202,3,613577
+Toyota,Fortuner,2018,128909,Diesel,Manual,1386,115,1,770261
+BMW,3 Series,2013,82668,Diesel,Automatic,2571,315,1,2685244
+Audi,Q3,2018,92077,Diesel,Automatic,3408,284,2,2794825
+Hyundai,i20,2017,57849,Petrol,Automatic,3129,307,2,1159654
+BMW,X1,2022,113981,Petrol,Automatic,2715,322,3,2836868
+Hyundai,Verna,2023,58852,Petrol,Automatic,2626,331,3,1230835
+Honda,City,2019,154877,Diesel,Manual,1683,243,1,848994
+Toyota,Corolla,2020,135671,Petrol,Automatic,3124,423,1,1123388
+Hyundai,Verna,2014,143262,Petrol,Automatic,2545,239,1,654226
+Toyota,Corolla,2014,112819,Petrol,Manual,1068,156,3,359763
+Hyundai,i20,2019,46392,Petrol,Manual,3110,250,1,1347716
+Honda,Amaze,2017,10113,Petrol,Manual,1706,209,1,1203572
+BMW,3 Series,2018,61565,Diesel,Automatic,2386,310,1,3175917
+Toyota,Fortuner,2023,133375,Petrol,Automatic,2043,270,2,1075959
+Toyota,Fortuner,2020,116273,Petrol,Automatic,2586,243,1,1283474
+Toyota,Corolla,2016,11692,Diesel,Manual,3284,423,1,1423009
+BMW,5 Series,2012,179407,Petrol,Manual,2867,427,1,2306488
+BMW,X1,2020,75573,Diesel,Manual,3028,433,1,3021717
+Audi,A3,2014,160521,Petrol,Manual,2199,201,1,2150766
+Honda,Amaze,2016,102880,Diesel,Automatic,2009,199,1,921150
+Hyundai,i20,2014,26430,Petrol,Automatic,1500,217,3,716728
+Audi,A4,2022,23390,Petrol,Automatic,1446,197,1,2963815
+BMW,X1,2017,42548,Petrol,Manual,1556,170,1,2835201
+Honda,Civic,2014,67701,Diesel,Manual,2998,305,1,1012853
+Hyundai,i20,2018,92134,Petrol,Automatic,2310,318,1,1059004
+Audi,Q3,2019,34838,Petrol,Automatic,1693,194,1,2866525
+BMW,3 Series,2022,98173,Petrol,Manual,3458,312,1,2991741
+Toyota,Corolla,2017,24834,Diesel,Automatic,1615,193,1,1364321
+Toyota,Fortuner,2014,51387,Petrol,Automatic,2593,289,1,1292795
+Audi,A4,2014,86910,Diesel,Automatic,1443,203,2,2252957
+Toyota,Corolla,2021,22465,Petrol,Automatic,3211,347,2,1687595
+Toyota,Camry,2015,6475,Diesel,Manual,2233,318,1,1272249
+Honda,Civic,2019,85814,Petrol,Manual,3475,454,2,1063254
+BMW,X1,2022,36289,Petrol,Automatic,2384,293,2,3218864
+Audi,A3,2022,116963,Diesel,Manual,2735,243,1,2778309
+Honda,Amaze,2020,138760,Petrol,Manual,2600,208,2,767808
+Audi,A4,2023,132421,Diesel,Automatic,2109,298,1,2799505
+Audi,Q3,2016,64297,Petrol,Manual,3206,416,1,2687525
+BMW,5 Series,2023,106610,Petrol,Manual,3180,442,1,3042708
+Hyundai,Verna,2018,153632,Diesel,Manual,3182,404,3,682525
+Toyota,Corolla,2020,157444,Petrol,Manual,2336,290,1,932861
+BMW,X1,2015,22699,Diesel,Manual,1412,175,2,2693777
+Toyota,Fortuner,2013,70110,Petrol,Manual,1364,182,2,728946
+Audi,A4,2016,112883,Diesel,Manual,1092,152,1,2283235
+Audi,A4,2023,107405,Diesel,Manual,1089,120,1,2617515
+Honda,Civic,2022,15497,Petrol,Manual,2562,340,1,1457238
+Audi,A4,2016,136585,Petrol,Manual,1038,122,2,2007970
+Toyota,Camry,2020,19268,Diesel,Manual,1428,185,2,1204877
+Honda,Amaze,2023,66502,Petrol,Manual,2071,231,3,975905
+Honda,Civic,2016,81298,Petrol,Automatic,1789,264,2,779551
+Honda,Civic,2022,143869,Diesel,Automatic,1734,183,1,1056383
+Audi,Q3,2015,97935,Diesel,Automatic,2640,305,1,2690600
+BMW,3 Series,2013,170720,Diesel,Automatic,2080,282,2,2222992
+Audi,A4,2019,129435,Diesel,Automatic,2335,198,1,2599655
+Honda,City,2021,149842,Petrol,Automatic,1780,266,2,826974
+Hyundai,Creta,2021,153443,Diesel,Manual,1305,108,2,518969
+Toyota,Corolla,2012,128449,Petrol,Automatic,1372,113,2,445212
+BMW,3 Series,2015,63719,Diesel,Automatic,2428,291,1,3002600
+Toyota,Fortuner,2023,149155,Petrol,Manual,2035,171,1,1039006
+Honda,City,2022,99937,Petrol,Automatic,3141,278,2,1237030
+Audi,A4,2013,111617,Petrol,Manual,3148,392,1,2437609
+Honda,City,2022,131872,Diesel,Automatic,2968,309,2,1227489
+BMW,3 Series,2015,117746,Diesel,Automatic,2544,232,1,2649218
+Hyundai,i20,2021,138795,Petrol,Automatic,1190,120,1,875396
+Hyundai,Creta,2015,56696,Diesel,Manual,2482,288,1,1075183
+BMW,5 Series,2018,148325,Diesel,Manual,2621,227,1,2676594
+BMW,X1,2019,40710,Petrol,Automatic,3074,391,1,3253035
+Honda,Amaze,2021,106518,Diesel,Automatic,2130,282,1,1216746
+BMW,5 Series,2020,127847,Petrol,Automatic,1680,220,2,2678034
+Hyundai,Verna,2017,149692,Petrol,Automatic,1721,217,1,762790
+Toyota,Camry,2012,170651,Diesel,Manual,1948,182,2,310232
+Toyota,Corolla,2021,90095,Petrol,Manual,1691,224,1,1153795
+BMW,5 Series,2018,179871,Diesel,Manual,1793,236,1,2485663
+Toyota,Corolla,2023,108026,Diesel,Manual,1123,118,1,1031259
+Hyundai,i20,2019,76727,Petrol,Manual,2295,319,1,1191538
+Toyota,Corolla,2022,19348,Petrol,Manual,1857,175,1,1409032
+Toyota,Camry,2016,101051,Diesel,Automatic,1691,229,1,1112898
+Honda,City,2021,147907,Diesel,Manual,2795,347,1,1083208
+Audi,A3,2021,69435,Petrol,Automatic,2878,320,1,3031454
+Hyundai,Creta,2012,86833,Petrol,Manual,2365,316,3,457873
+Hyundai,i20,2015,74307,Petrol,Manual,2603,282,1,876698
+Audi,A3,2015,46406,Diesel,Automatic,1857,271,2,2592910
+BMW,X1,2020,87705,Petrol,Automatic,1131,104,1,2779885
+Hyundai,i20,2021,105268,Petrol,Automatic,1688,205,1,1150159
+Hyundai,i20,2013,159171,Petrol,Manual,2196,193,1,548332
+Audi,Q3,2020,160820,Petrol,Automatic,2409,237,2,2365173
+Honda,Amaze,2016,169219,Petrol,Automatic,1758,239,3,418608
+Toyota,Camry,2013,93299,Diesel,Automatic,3323,423,3,989453
+Honda,Amaze,2013,46607,Petrol,Automatic,3350,424,2,1102956
+Audi,A4,2014,71290,Diesel,Manual,3215,309,3,2522539
+Toyota,Camry,2018,70747,Diesel,Manual,2005,246,2,990974
+Hyundai,Verna,2023,45251,Diesel,Automatic,2594,278,1,1449495
+Audi,A4,2014,106557,Petrol,Automatic,2331,285,1,2470310
+BMW,X1,2017,46183,Diesel,Automatic,2447,289,1,3194782
+Honda,City,2019,64422,Diesel,Manual,3168,324,1,1370675
+Honda,Amaze,2012,63070,Diesel,Automatic,1968,160,2,800453
+Honda,Amaze,2022,78902,Petrol,Automatic,2970,314,1,1367840
+Audi,A3,2015,165385,Petrol,Manual,2113,205,2,1864236
+BMW,5 Series,2019,46235,Petrol,Automatic,2508,306,1,3030945
+Honda,City,2014,27758,Diesel,Automatic,1121,107,1,995008
+Honda,Amaze,2019,28482,Diesel,Automatic,2942,374,1,1688534
+BMW,5 Series,2022,76463,Diesel,Automatic,2453,312,3,2928150
+BMW,3 Series,2012,157108,Diesel,Automatic,2749,299,2,2408150
+Toyota,Corolla,2020,73559,Petrol,Manual,1497,218,1,1211336
+Audi,Q3,2015,102777,Diesel,Automatic,3049,395,3,2364547
+Hyundai,Creta,2022,97456,Petrol,Manual,2565,362,1,1108412
+Toyota,Fortuner,2018,52020,Petrol,Manual,2568,223,3,1026600
+Toyota,Camry,2019,129539,Petrol,Manual,1334,197,3,660553
+BMW,5 Series,2018,56125,Diesel,Automatic,2041,291,1,3002192
+Toyota,Corolla,2017,165483,Petrol,Manual,2122,226,1,655668
+Toyota,Fortuner,2014,100680,Diesel,Manual,2176,283,3,632513
+Hyundai,Verna,2021,106222,Diesel,Automatic,1943,263,2,1073815
+Honda,City,2022,134408,Diesel,Automatic,2445,247,1,1074580
+Honda,City,2021,164947,Petrol,Automatic,3490,425,1,1089040
+Hyundai,Creta,2020,23154,Diesel,Automatic,2260,321,1,1536972
+Audi,Q3,2012,138237,Diesel,Automatic,1535,176,2,2031096
+Audi,Q3,2018,175841,Diesel,Automatic,2607,326,3,2294245
+Audi,A3,2020,178908,Petrol,Automatic,1792,221,1,2400773
+BMW,X1,2019,103407,Petrol,Automatic,1129,93,1,2731730
+Hyundai,Verna,2018,176682,Petrol,Manual,2909,302,1,597871
+Hyundai,i20,2013,136706,Diesel,Automatic,1979,201,2,457871
+Honda,Civic,2017,102039,Petrol,Manual,1942,281,1,993244
+Toyota,Fortuner,2015,115816,Diesel,Automatic,1245,182,2,809247
+Toyota,Fortuner,2017,34115,Diesel,Automatic,1548,209,1,1315229
+Hyundai,Creta,2018,48047,Diesel,Manual,2836,305,1,1166025
+Honda,City,2017,148655,Diesel,Automatic,3138,327,1,1052017
+Toyota,Corolla,2019,22982,Petrol,Manual,2787,263,1,1409284
+Honda,Amaze,2018,144182,Petrol,Manual,2951,371,1,809540
+Honda,Amaze,2018,142458,Diesel,Automatic,1225,181,1,801003
+Audi,A3,2016,63141,Diesel,Automatic,3143,363,2,2680260
+Hyundai,Creta,2012,53268,Diesel,Automatic,3080,386,3,901328
+Audi,Q3,2019,35218,Petrol,Automatic,2913,310,2,2791631
+BMW,X1,2015,160891,Petrol,Manual,3027,320,1,2340293
+Audi,Q3,2012,118397,Petrol,Manual,1097,101,1,2098794
+BMW,3 Series,2012,21534,Diesel,Automatic,1518,195,2,2796244
+Toyota,Corolla,2022,41595,Diesel,Automatic,2485,253,1,1732946
+Audi,A3,2014,149245,Diesel,Manual,1869,185,1,2033363
+BMW,5 Series,2016,102143,Petrol,Manual,3473,353,2,2556872
+BMW,X1,2014,76403,Diesel,Manual,1349,166,1,2531491
+Toyota,Corolla,2018,88188,Diesel,Automatic,2461,268,2,1174627
+Hyundai,i20,2022,136583,Petrol,Automatic,2747,293,1,1001221
+Hyundai,Creta,2015,104603,Petrol,Manual,1122,113,1,497993
+Toyota,Camry,2017,62425,Diesel,Automatic,2603,226,2,1124129
+Toyota,Camry,2016,161877,Petrol,Manual,1497,120,3,225818
+Hyundai,Verna,2021,92999,Diesel,Manual,1258,101,2,759986
+Honda,Civic,2020,170477,Petrol,Manual,1026,106,1,536694
+Honda,Amaze,2019,76662,Diesel,Manual,3095,376,1,1233850
+Hyundai,Creta,2013,64235,Petrol,Manual,3018,327,1,917306
+Audi,Q3,2017,47948,Petrol,Manual,3054,407,2,2766426
+Toyota,Camry,2013,55115,Diesel,Automatic,1489,168,1,969656
+Hyundai,Verna,2023,72542,Diesel,Manual,3337,494,1,1613941
+Honda,City,2020,15390,Diesel,Automatic,2705,335,1,1648613
+Audi,Q3,2023,128536,Petrol,Automatic,2066,295,1,2651563
+Audi,Q3,2016,21854,Petrol,Automatic,1143,164,2,2542217
+Honda,Amaze,2017,165492,Diesel,Automatic,2221,278,3,531436
+BMW,X1,2020,19639,Diesel,Manual,2816,408,1,3289780
+Audi,A3,2022,84409,Petrol,Automatic,2542,242,1,2926289
+Hyundai,Verna,2018,54782,Petrol,Automatic,1622,224,1,1168495
+BMW,3 Series,2020,43919,Diesel,Manual,2354,298,1,3209233
+Hyundai,i20,2022,115599,Diesel,Manual,3134,253,1,1091686
+BMW,5 Series,2023,112199,Petrol,Manual,1518,122,1,2661115
+BMW,X1,2016,6218,Diesel,Manual,2219,260,1,3165222
+Toyota,Fortuner,2023,91915,Petrol,Automatic,2294,291,1,1390992
+Toyota,Camry,2012,124121,Petrol,Manual,2246,213,2,434986
+Hyundai,Creta,2022,104912,Petrol,Automatic,3348,446,2,1250279
+Audi,A4,2014,114374,Petrol,Automatic,2361,202,2,2137323
+BMW,X1,2012,92362,Diesel,Manual,1702,200,1,2550245
+Hyundai,Creta,2023,38925,Petrol,Automatic,3160,305,1,1564133
+Hyundai,Creta,2013,44599,Petrol,Manual,3493,336,1,1041877
+Toyota,Camry,2012,144772,Diesel,Automatic,2492,274,2,748456
+Audi,A4,2013,132703,Petrol,Automatic,1157,144,1,2106157
+Hyundai,Creta,2021,53952,Petrol,Automatic,2698,311,1,1445565
+Honda,Amaze,2023,161748,Diesel,Automatic,2822,352,2,1133231
+BMW,3 Series,2017,151843,Diesel,Manual,1192,169,2,2322246
+Hyundai,Creta,2014,109424,Petrol,Automatic,1016,99,3,435111
+BMW,X1,2017,162742,Diesel,Manual,1360,172,3,2222451
+Honda,Civic,2021,56150,Petrol,Automatic,2354,203,2,1269019
+Audi,A3,2014,132244,Petrol,Manual,1199,172,1,2020265
+Audi,A3,2019,53126,Petrol,Manual,3156,433,1,2891862
+Hyundai,Verna,2019,63328,Diesel,Manual,2459,243,3,905829
+Audi,A3,2015,103498,Diesel,Automatic,1969,242,1,2430585
+Honda,Civic,2022,62075,Diesel,Automatic,3368,336,1,1531808
+Hyundai,Verna,2015,143689,Diesel,Automatic,3098,253,1,854185
+Toyota,Fortuner,2016,144116,Diesel,Automatic,3354,390,2,858473
+Honda,City,2015,25045,Petrol,Manual,3099,306,2,1083210
+Honda,Amaze,2014,135292,Petrol,Manual,3223,463,1,801034
+Audi,A4,2020,53988,Diesel,Automatic,3195,478,1,3224303
+BMW,5 Series,2016,157730,Diesel,Automatic,3386,501,2,2642857
+Honda,City,2018,41394,Diesel,Automatic,3073,335,1,1590657
+Audi,A4,2021,66308,Petrol,Automatic,2800,228,1,2825496
+Audi,Q3,2021,150054,Diesel,Automatic,1874,246,1,2568743
+BMW,X1,2020,22332,Petrol,Manual,2467,263,2,2939352
+Honda,Amaze,2013,78243,Diesel,Automatic,1010,96,1,814505
+Toyota,Fortuner,2013,30331,Diesel,Automatic,2251,295,1,1296695
+Audi,A4,2012,7103,Diesel,Automatic,1771,193,1,2715354
+BMW,X1,2016,111569,Petrol,Manual,1924,233,3,2319749
+Toyota,Camry,2015,114030,Petrol,Manual,2633,361,1,795828
+Audi,A4,2022,99491,Petrol,Automatic,2667,263,3,2724601
+Audi,A4,2013,70288,Diesel,Manual,1897,229,3,2174092
+Hyundai,Verna,2017,57010,Diesel,Automatic,3182,428,1,1425559
+Audi,A3,2023,62988,Diesel,Manual,3343,379,1,3060153
+Hyundai,i20,2021,78791,Petrol,Automatic,3132,332,2,1288528
+Hyundai,Verna,2018,139157,Diesel,Manual,2363,232,1,814588
+Honda,Amaze,2021,125350,Petrol,Automatic,1204,98,2,912742
+Audi,A4,2020,28308,Diesel,Automatic,1304,183,1,2870898
+Hyundai,Creta,2020,103642,Petrol,Manual,3014,365,2,992079
+BMW,3 Series,2012,14954,Diesel,Manual,3399,431,1,3076000
+Audi,A3,2015,17634,Diesel,Manual,3476,430,1,2885909
+Audi,A3,2017,40180,Diesel,Manual,1509,165,1,2692426
+BMW,3 Series,2023,117154,Diesel,Manual,1649,145,1,2744049
+Audi,A4,2020,100296,Diesel,Manual,2676,351,3,2423828
+Hyundai,Creta,2013,51216,Diesel,Manual,1946,173,1,930613
+Toyota,Camry,2023,13498,Petrol,Automatic,1548,148,2,1529757
+BMW,X1,2013,15675,Diesel,Manual,3261,288,1,3113011
+Honda,Amaze,2013,24964,Petrol,Manual,2894,374,1,1265045
+BMW,5 Series,2012,147377,Diesel,Automatic,2621,324,1,2397345
+Hyundai,Verna,2017,170162,Diesel,Automatic,2007,179,1,762320
+Honda,City,2019,95015,Diesel,Automatic,3408,453,1,1372837
+Hyundai,i20,2012,117209,Diesel,Manual,2022,232,1,602063
+Toyota,Camry,2023,74161,Diesel,Manual,1447,160,1,1239323
+Audi,A3,2015,178191,Diesel,Automatic,3495,285,1,2277136
+BMW,X1,2022,98547,Petrol,Automatic,2161,274,1,3023186
+Honda,City,2014,12257,Diesel,Manual,1206,113,2,870796
+Audi,Q3,2015,57915,Petrol,Automatic,2172,270,1,2661690
+Toyota,Fortuner,2014,159076,Diesel,Manual,2433,247,1,791011
+Audi,A4,2015,168520,Diesel,Automatic,2189,278,2,2128538
+Audi,Q3,2018,17641,Petrol,Automatic,1325,194,1,2780608
+Toyota,Camry,2012,127931,Diesel,Manual,1774,250,1,620312
+Toyota,Fortuner,2013,92470,Petrol,Manual,1094,117,1,736374
+Hyundai,Verna,2019,173610,Petrol,Manual,2920,270,2,588455
+Toyota,Corolla,2022,19568,Petrol,Manual,1346,109,1,1288031
+BMW,X1,2016,108246,Diesel,Automatic,2018,264,1,2776608
+Honda,City,2018,20852,Petrol,Manual,1427,182,1,1090770
+Toyota,Corolla,2015,127731,Petrol,Manual,1684,228,2,616906
+Audi,A4,2022,139124,Petrol,Automatic,1981,249,2,2469633
+BMW,3 Series,2018,12168,Petrol,Manual,3200,439,1,3183639
+BMW,5 Series,2012,159593,Diesel,Automatic,1265,148,3,2030148
+Hyundai,i20,2018,68240,Petrol,Manual,2878,399,1,1173926
+Honda,City,2015,95185,Diesel,Automatic,2804,254,1,1047154
+Honda,Civic,2014,177494,Petrol,Manual,2391,208,1,592365
+Toyota,Corolla,2018,142692,Petrol,Manual,1229,118,1,574252
+Honda,Amaze,2013,134840,Petrol,Automatic,1336,107,1,476190
+Toyota,Corolla,2020,29221,Petrol,Manual,2311,283,1,1405799
+Honda,Civic,2021,107108,Diesel,Automatic,1840,149,1,1109418
+BMW,5 Series,2023,31004,Diesel,Automatic,2032,303,2,3175115
+BMW,5 Series,2017,107935,Diesel,Automatic,2237,193,1,2857714
+BMW,X1,2013,158147,Petrol,Automatic,2837,394,3,2259010
+Audi,A4,2012,83825,Petrol,Automatic,1891,273,1,2266779
+Honda,City,2021,12844,Diesel,Automatic,1660,188,1,1437570
+Toyota,Fortuner,2017,111771,Diesel,Manual,2055,180,1,963725
+Honda,Civic,2018,42461,Petrol,Manual,2323,198,3,899094
+BMW,X1,2020,14565,Petrol,Manual,1801,210,1,2976837
+Honda,Civic,2020,153506,Diesel,Automatic,1930,185,1,1039703
+Honda,City,2012,93352,Petrol,Automatic,2849,426,2,771259
+Honda,Civic,2016,79220,Petrol,Manual,1411,179,1,929964
+Toyota,Corolla,2023,9797,Diesel,Manual,2868,323,2,1632308
+Honda,City,2014,95344,Petrol,Automatic,1325,173,1,800798
+BMW,X1,2018,18656,Diesel,Manual,2622,288,2,3109098
+Toyota,Fortuner,2017,165979,Diesel,Automatic,2123,303,1,898610
+BMW,3 Series,2021,83700,Petrol,Automatic,1306,123,1,2903854
+Hyundai,Verna,2012,79137,Diesel,Automatic,3392,459,1,1145247
+Toyota,Fortuner,2019,154973,Diesel,Manual,3273,354,2,1021967
+Hyundai,Creta,2023,128954,Diesel,Manual,2906,311,2,975923
+BMW,3 Series,2015,105211,Diesel,Automatic,1197,165,2,2430394
+Honda,Amaze,2017,146011,Diesel,Manual,3012,415,2,804938
+Hyundai,Verna,2021,48832,Petrol,Automatic,2931,309,2,1303625
+Hyundai,Verna,2023,114449,Petrol,Automatic,2283,261,2,1006752
+Audi,Q3,2021,178907,Petrol,Automatic,1703,190,1,2320768
+Honda,City,2019,102868,Petrol,Manual,1387,184,1,777196
+BMW,3 Series,2013,172445,Diesel,Manual,2908,436,2,2351587
+Audi,Q3,2019,73707,Diesel,Manual,3447,376,2,2723070
+Honda,Civic,2014,28569,Petrol,Automatic,2826,247,2,1108136
+Toyota,Camry,2019,60997,Petrol,Manual,2433,322,1,1304344
+BMW,3 Series,2016,69292,Diesel,Automatic,2631,262,2,2768752
+Audi,Q3,2021,59174,Petrol,Manual,2799,351,1,2949090
+Honda,Civic,2016,49062,Diesel,Manual,3455,443,2,1241701
+Honda,Amaze,2016,156970,Petrol,Manual,2902,377,1,684978
+Toyota,Camry,2021,136268,Petrol,Automatic,2118,180,1,1099199
+Toyota,Corolla,2018,109625,Petrol,Manual,1145,96,1,765584
+Toyota,Corolla,2012,153472,Petrol,Manual,1944,265,1,411893
+Honda,Amaze,2019,169171,Diesel,Automatic,2281,306,3,650495
+Hyundai,i20,2015,38441,Diesel,Automatic,3055,391,1,1408866
+Toyota,Fortuner,2017,32210,Petrol,Manual,1611,237,1,1173772
+Toyota,Camry,2019,10097,Petrol,Manual,2120,235,3,1272373
+Toyota,Fortuner,2019,113466,Petrol,Manual,3268,375,1,1056292
+Hyundai,Verna,2015,77102,Petrol,Automatic,2264,282,1,894734
+Honda,Civic,2015,145774,Diesel,Automatic,1223,123,1,628924
+Audi,A4,2015,59156,Petrol,Automatic,2586,289,1,2770899
+Audi,A3,2020,44481,Petrol,Automatic,2242,276,1,2962197
+Hyundai,i20,2015,79216,Petrol,Automatic,1518,136,1,846352
+Toyota,Corolla,2014,125869,Diesel,Manual,1046,85,1,558427
+Toyota,Corolla,2016,155924,Petrol,Automatic,1466,194,2,521277
+Toyota,Corolla,2016,169503,Diesel,Automatic,2663,222,2,696107
+Honda,Civic,2016,94018,Diesel,Manual,1119,135,1,798648
+Toyota,Camry,2015,43948,Petrol,Automatic,2592,321,2,1178715
+BMW,3 Series,2018,171394,Diesel,Automatic,1543,129,3,2265554
+Hyundai,Creta,2016,88788,Diesel,Automatic,2548,216,1,1108702
+Hyundai,Verna,2012,82685,Diesel,Manual,2774,335,2,819156
+Audi,Q3,2023,98749,Diesel,Manual,1839,216,2,2708684
+Audi,A3,2023,159613,Diesel,Automatic,3459,460,2,2853835
+Audi,A4,2018,77341,Petrol,Manual,2114,260,1,2698681
+Hyundai,Verna,2022,45892,Petrol,Automatic,2331,303,2,1279774
+BMW,5 Series,2018,49175,Diesel,Manual,2098,265,1,3045602
+Hyundai,Verna,2013,139932,Petrol,Manual,2626,267,2,473205
+Honda,Civic,2014,165120,Diesel,Automatic,3187,322,1,899931
+Honda,City,2017,27580,Petrol,Manual,1560,129,1,1121484
+Hyundai,Verna,2021,156185,Diesel,Automatic,1172,115,2,707154
+Honda,Amaze,2023,155316,Petrol,Automatic,1335,140,1,1032904
+Audi,Q3,2019,177449,Petrol,Manual,3300,455,1,2416737
+BMW,5 Series,2023,161553,Petrol,Manual,2909,284,1,2783082
+BMW,3 Series,2020,15027,Diesel,Manual,2295,306,1,3186427
+Hyundai,i20,2019,44925,Petrol,Automatic,1179,140,2,1051775
+BMW,5 Series,2017,55996,Petrol,Automatic,1613,209,1,2833855
+Hyundai,i20,2012,143293,Diesel,Automatic,3269,423,1,856824
+Toyota,Fortuner,2014,102576,Diesel,Automatic,2288,251,1,1094373
+Audi,A3,2019,77517,Diesel,Manual,2618,294,2,2673237
+Honda,Civic,2021,47812,Diesel,Manual,3287,341,1,1627876
+Toyota,Corolla,2020,91884,Diesel,Manual,1884,207,1,1205651
+Honda,Amaze,2015,6759,Petrol,Manual,1202,132,1,1088604
+Audi,A3,2015,69085,Diesel,Automatic,1419,165,2,2333339
+BMW,X1,2022,29324,Petrol,Manual,1019,83,1,2997344
+Honda,Amaze,2012,75872,Petrol,Automatic,1637,240,1,862037
+Toyota,Corolla,2019,132743,Diesel,Manual,2945,358,1,1011172
+BMW,X1,2018,81447,Diesel,Manual,1759,256,1,2761743
+Toyota,Corolla,2021,12106,Diesel,Automatic,1205,99,1,1391124
+Toyota,Fortuner,2022,127987,Diesel,Automatic,3183,332,1,1305985
+Honda,Civic,2023,72134,Diesel,Manual,1445,211,1,1189992
+Honda,City,2017,61159,Diesel,Automatic,2524,262,1,1272739
+BMW,5 Series,2015,138911,Petrol,Manual,2960,313,1,2635634
+Audi,A4,2012,19143,Petrol,Manual,1619,227,1,2573707
+Toyota,Fortuner,2021,116300,Diesel,Automatic,3455,378,1,1489187
+Toyota,Camry,2023,54107,Petrol,Manual,2072,209,2,1164100
+Honda,Civic,2015,170567,Diesel,Manual,1168,124,1,559113
+Toyota,Fortuner,2016,23520,Petrol,Automatic,2880,396,1,1556731
+BMW,X1,2022,13354,Petrol,Manual,2666,255,3,3069329
+Toyota,Corolla,2013,127861,Diesel,Manual,2845,286,2,751652
+Honda,Amaze,2013,68702,Diesel,Manual,1333,132,2,755052
+Audi,Q3,2021,51892,Diesel,Automatic,1249,136,1,2808711
+BMW,3 Series,2020,129475,Petrol,Manual,2773,263,1,2641370
+Toyota,Corolla,2018,72949,Petrol,Manual,2277,261,1,1182510
+BMW,X1,2014,166933,Diesel,Automatic,3297,306,2,2502594
+BMW,3 Series,2021,167855,Petrol,Automatic,1212,137,1,2469637
+Hyundai,i20,2020,97716,Petrol,Automatic,2429,248,1,1165022
+Audi,A3,2019,103620,Diesel,Automatic,2663,382,1,2791230
+Audi,Q3,2018,35561,Petrol,Manual,2085,294,1,2812961
+Audi,A4,2016,87419,Diesel,Automatic,2763,234,3,2336072
+Toyota,Fortuner,2023,79461,Petrol,Automatic,1599,191,2,1108494
+Toyota,Camry,2013,35525,Diesel,Manual,1707,211,2,1016514
+Honda,Amaze,2018,5523,Petrol,Manual,1944,208,2,1258185
+Hyundai,Creta,2021,172968,Petrol,Manual,2112,282,2,706320
+BMW,5 Series,2018,21003,Petrol,Automatic,1788,187,1,3076859
+BMW,5 Series,2019,88808,Petrol,Automatic,1639,216,1,2742774
+Honda,Amaze,2015,117631,Diesel,Automatic,3363,481,1,1122393
+Hyundai,Verna,2022,12403,Diesel,Manual,2063,165,3,1168636
+BMW,5 Series,2017,91298,Petrol,Automatic,2750,274,2,2725644
+BMW,X1,2014,47596,Petrol,Manual,1633,167,1,2540957
+BMW,X1,2018,62261,Petrol,Automatic,2760,391,1,3021912
+BMW,X1,2018,160386,Diesel,Manual,3207,422,3,2545015
+Honda,Amaze,2020,83656,Diesel,Automatic,2234,307,2,1158937
+Toyota,Corolla,2012,137323,Diesel,Manual,1545,188,1,456750
+Audi,A4,2021,98297,Petrol,Automatic,2693,301,2,2753791
+Audi,A4,2015,179580,Petrol,Manual,2335,334,1,2183877
+BMW,X1,2020,102272,Petrol,Automatic,3353,343,2,2952905
+Hyundai,Verna,2013,10345,Petrol,Automatic,1005,103,1,929112
+Audi,Q3,2020,154804,Petrol,Manual,1880,254,2,2205217
+BMW,X1,2022,131829,Diesel,Automatic,3376,368,1,3043338
+Audi,A4,2017,134677,Diesel,Manual,3483,414,2,2457612
+BMW,3 Series,2023,34610,Petrol,Automatic,3103,268,1,3372465
+Toyota,Fortuner,2021,146853,Diesel,Manual,1215,129,3,691329
+Honda,Amaze,2013,19341,Petrol,Automatic,3432,281,1,1330942
+Toyota,Corolla,2016,161207,Petrol,Manual,1159,105,2,499775
+Hyundai,Creta,2023,97477,Petrol,Manual,1414,115,1,1086405
+BMW,3 Series,2016,149692,Petrol,Automatic,1925,157,2,2359836
+Hyundai,i20,2017,100166,Petrol,Manual,2492,299,1,973106
+Hyundai,Creta,2018,38524,Petrol,Automatic,1734,244,3,922833
+BMW,5 Series,2022,67793,Petrol,Manual,1072,91,2,2714046
+Hyundai,Creta,2023,165731,Diesel,Manual,2726,331,2,933270
+Honda,Amaze,2015,152721,Petrol,Automatic,1002,90,2,400479
+Audi,Q3,2021,55919,Petrol,Manual,1099,115,1,2581555
+Honda,Civic,2014,146452,Diesel,Manual,1682,197,1,550237
+Honda,Civic,2022,153388,Diesel,Manual,3084,426,1,1165727
+Honda,Civic,2015,138449,Diesel,Manual,1860,215,1,725809
+Audi,A3,2020,122299,Petrol,Automatic,3408,354,1,2891676
+Toyota,Corolla,2023,112272,Petrol,Automatic,1128,128,3,832666
+Honda,Civic,2016,131241,Petrol,Automatic,1744,219,1,817717
+Hyundai,Creta,2023,51833,Diesel,Automatic,1384,162,1,1365723
+Honda,Amaze,2022,15282,Petrol,Manual,3085,287,1,1566243
+Audi,A4,2018,144080,Diesel,Manual,2036,208,1,2272531
+Toyota,Camry,2015,56312,Petrol,Manual,3341,295,1,1293385
+Audi,A4,2020,101535,Petrol,Manual,1104,140,1,2412704
+Honda,Civic,2014,6392,Petrol,Automatic,2897,282,1,1382221
+Toyota,Corolla,2017,49348,Diesel,Automatic,3277,280,2,1431157
+Honda,City,2014,115391,Diesel,Automatic,2424,267,1,953356
+Audi,A4,2013,20573,Diesel,Automatic,2841,297,1,2888283
+Honda,Amaze,2021,24577,Petrol,Automatic,2217,299,1,1431349
+Honda,Amaze,2017,94445,Petrol,Manual,1626,222,1,879083
+Honda,Civic,2012,122345,Diesel,Automatic,1437,156,1,689259
+Honda,City,2015,87025,Petrol,Manual,2248,267,2,694332
+Hyundai,i20,2017,104802,Diesel,Automatic,3177,257,3,909075
+Audi,A4,2016,178146,Diesel,Automatic,2501,343,1,2388977
+BMW,X1,2016,84709,Petrol,Manual,2910,343,2,2615418
+Honda,Amaze,2016,173731,Petrol,Manual,1652,152,1,423774
+Audi,A4,2013,66738,Petrol,Automatic,1507,180,2,2345509
+Toyota,Camry,2016,35062,Petrol,Automatic,2195,291,2,1054561
+Hyundai,Verna,2013,153829,Diesel,Manual,1391,173,1,289403
+BMW,X1,2013,53731,Diesel,Automatic,2384,315,1,2886245
+Honda,Amaze,2019,34113,Diesel,Manual,3190,265,2,1348942
+BMW,X1,2023,101163,Diesel,Automatic,2677,379,2,3079697
+Hyundai,Creta,2022,87512,Diesel,Manual,1244,139,2,914295
+Audi,Q3,2022,20433,Diesel,Manual,1106,98,1,2872767
+Audi,A4,2018,64377,Diesel,Manual,2016,285,2,2693953
+Audi,A4,2016,126926,Diesel,Automatic,1432,197,1,2435711
+Hyundai,Creta,2018,129636,Petrol,Automatic,1437,135,1,696346
+Hyundai,i20,2023,177425,Diesel,Manual,2751,367,1,889205
+BMW,5 Series,2014,114132,Diesel,Automatic,2854,251,1,2786536
+Toyota,Fortuner,2017,18243,Diesel,Automatic,1823,224,1,1280872
+Toyota,Corolla,2017,35710,Diesel,Manual,1450,144,1,1158119
+Audi,A4,2012,112770,Diesel,Manual,1481,176,2,2037007
+Hyundai,Creta,2021,155740,Diesel,Automatic,2439,217,2,816435
+Toyota,Fortuner,2014,116831,Diesel,Manual,2167,309,1,789867
+Honda,City,2014,140122,Diesel,Manual,1522,129,1,489102
+Toyota,Fortuner,2021,48554,Petrol,Manual,2387,256,1,1440706
+Audi,A4,2016,150311,Petrol,Automatic,1223,165,1,2129414
+Audi,Q3,2022,165931,Petrol,Automatic,2445,319,1,2624534
