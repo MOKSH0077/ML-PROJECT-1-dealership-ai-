@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 
 
-!pip install streamlit
-!pip install pyngrok
 
-Commented out IPython magic to ensure Python compatibility.
+
+
 # streamlit_app.py
 %%writefile dealership_Ai.py
 import streamlit as st
